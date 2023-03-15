@@ -1,0 +1,33 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "creditCardNo": null,
+    "dueDate": "20211210",
+    "periodBillAmtFlag": "+",
+    "periodBillAmt": "2000",
+    "minPayAmt": "510",
+    "amount": "100000",
+    "surPayedAmt": "3500",
+    "availableAmt": "40000",
+    "periodBillDate": "20211120",
+    "payCount": "10",
+    "billStatus": "4",
+    "outstandingBillsTotalAmount": "1800",
+    "outBillingDay": null,
+    "billIssuedRepaymentDate": null,
+    "billingDate": null,
+    "billAmount": "600",
+    "payedAmt": "0",
+    "maxInstallAmt": null,
+    "day": "11",
+    "overAmount": "2000",
+    "billDate": "20211108",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810898",
+      "respTime": "2021-12-21 09:59:17",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "bankName": "招商银行",
+    "sendOrgCd": "03080000",
+    "innerCardFlag": "1",
+    "bkctgrycd": "308",
+    "bankCode": "308584000013",
+    "cardType": "1",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063900967",
+      "respTime": "2021-12-21 10:48:13",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "totalLoanAmount": "10000000",
+    "totalCount": "5",
+    "borrowDate": "2020-01-01",
+    "loanTimeLimit": "2",
+    "loanUnpaidInfoDtos": [
+      {
+        "nper": "1",
+        "billingDate": "2020-02-01",
+        "paymentStatus": "0",
+        "amountDue": "1000",
+        "amountPrincipal": "10000",
+        "repaymentInterest": "300",
+        "cost": "5000",
+        "currentInterest": "10",
+        "repaymentAccount": "256984197502254586",
+        "repaymentTime": "2020-02-05"
+      },
+      {
+        "nper": "1",
+        "billingDate": "2020-03-01",
+        "paymentStatus": "0",
+        "amountDue": "1000",
+        "amountPrincipal": "10000",
+        "repaymentInterest": "200",
+        "cost": "5000",
+        "currentInterest": "10",
+        "repaymentAccount": "256984197502254586",
+        "repaymentTime": "2020_03_05"
+      },
+      {
+        "nper": "1",
+        "billingDate": "2020-04-01",
+        "paymentStatus": "1",
+        "amountDue": "1000",
+        "amountPrincipal": "10000",
+        "repaymentInterest": "100",
+        "cost": "5000",
+        "currentInterest": "10",
+        "repaymentAccount": "256984197502254586",
+        "repaymentTime": "2020-04-05"
+      },
+      {
+        "nper": "1",
+        "billingDate": "2020-05-01",
+        "paymentStatus": "1",
+        "amountDue": "1000",
+        "amountPrincipal": "10000",
+        "repaymentInterest": "350",
+        "cost": "5000",
+        "currentInterest": "10",
+        "repaymentAccount": "256984197502254586",
+        "repaymentTime": "2020-05-05"
+      },
+      {
+        "nper": "1",
+        "billingDate": "2020-06-01",
+        "paymentStatus": "0",
+        "amountDue": "1000",
+        "amountPrincipal": "10000",
+        "repaymentInterest": "200",
+        "cost": "5000",
+        "currentInterest": "10",
+        "repaymentAccount": "256984197502254586",
+        "repaymentTime": "2020-06-05"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810519",
+      "respTime": "2021-12-21 09:48:00",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+	  "authRes": "true"
+  }
+}

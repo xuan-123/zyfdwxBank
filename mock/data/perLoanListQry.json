@@ -1,0 +1,249 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "totalCount": "4",
+    "totalAmount": "500000",
+    "description": "数字银行线上借款，额度高，放款快",
+    "list": [
+      {
+        "prodCode": "10086",
+        "prodName": "抵押贷",
+        "productDescription": "无担保，纯线上，放款快",
+        "term": "6",
+        "approveTime": "3",
+        "productImg": "loan-product1",
+        "guaranteeType": "1",
+        "interestRate": "5.25%",
+        "maxAmount": "500000",
+        "minAmount": "10000",
+        "validOfQuota": "2021-11-22",
+        "rate": "0.1%",
+        "conditionsList": [
+          {
+            "condition": "企业成立满两年"
+          },
+          {
+            "condition": "企业纳税等级非C、D级"
+          }
+        ],
+        "productFeaturesList": [
+          {
+            "productFeature": "最快两小时审批"
+          },
+          {
+            "productFeature": "还款方式灵活"
+          }
+        ],
+        "rpyMode": "9",
+        "serialNo": "0000001",
+        "loanAmt": "1200000",
+        "RpyMode": null,
+        "isHaveHXProduct": "0",
+        "status": "1",
+        "loanLndActNo": "65662121231112222",
+        "loanLndActName": "张三",
+        "loanBankNo": "8999",
+        "loanBankName": "中国银行",
+        "loanDate": "20200808",
+        "remainAmt": "30000",
+        "principalAmt": "50000",
+        "principalInter": "1888",
+        "penaltyInter": "888",
+        "CompInter": null,
+        "waitAmt": "28000",
+        "loanPurpose": "1",
+        "usage": "1",
+        "handlingProcess": "线上申请",
+        "myAmount": "200000",
+        "reapplyFlag": "1",
+        "settleLoanFlag": "0",
+        "typeDes": "“抵押贷”为赣州银行面向依法按时纳税的中小企业主，研发的互联网贷款产品。",
+        "typeMaxQuota": "300万",
+        "typeRate": null,
+        "typeTags": "利率低至0.018%",
+        "typeEligibility": "（1）申请人为企业法定代表人。 \\r\\n（2）申请人年龄22周岁（含）-59周岁（含），无不良信用记录。 \\r\\n（3）企业成立2年（含）以上，具有合法经营资质，无不良信用记录。"
+      },
+      {
+        "prodCode": "10087",
+        "prodName": "经营贷",
+        "productDescription": "可循环，期限长，产品多",
+        "term": "12",
+        "approveTime": "5",
+        "productImg": "loan-product2",
+        "guaranteeType": "1",
+        "interestRate": "5.26%",
+        "maxAmount": "300000",
+        "minAmount": "10000",
+        "validOfQuota": "2021-12-12",
+        "rate": "4.5%",
+        "conditionsList": [
+          {
+            "condition": "企业成立满两年"
+          },
+          {
+            "condition": "企业纳税等级非C、D级"
+          }
+        ],
+        "productFeaturesList": [
+          {
+            "productFeature": "最快两小时审批"
+          },
+          {
+            "productFeature": "还款方式灵活"
+          }
+        ],
+        "rpyMode": "9",
+        "serialNo": "00200001",
+        "loanAmt": "80000000",
+        "RpyMode": null,
+        "isHaveHXProduct": "0",
+        "status": "1",
+        "loanLndActNo": "65662121231112244",
+        "loanLndActName": "张三",
+        "loanBankNo": "8999",
+        "loanBankName": "中国银行",
+        "loanDate": "20200808",
+        "remainAmt": "30000",
+        "principalAmt": "50000",
+        "principalInter": "1888",
+        "penaltyInter": "888",
+        "CompInter": null,
+        "waitAmt": "28000",
+        "loanPurpose": "2",
+        "usage": "2",
+        "handlingProcess": "线下申请",
+        "myAmount": "0",
+        "reapplyFlag": "1",
+        "settleLoanFlag": "0",
+        "typeDes": "“经营贷”为赣州银行面向依法按时纳税的中小企业主，研发的互联网贷款产品。",
+        "typeMaxQuota": "600万",
+        "typeRate": null,
+        "typeTags": "利率低至4.5%",
+        "typeEligibility": "（1）申请人为企业法定代表人。 \\r\\n（2）申请人年龄22周岁（含）-59周岁（含），无不良信用记录。 \\r\\n（3）企业成立2年（含）以上，具有合法经营资质，无不良信用记录。"
+      },
+      {
+        "prodCode": "10088",
+        "prodName": "消费贷",
+        "productDescription": "可循环，可续贷，额度高",
+        "term": "6",
+        "approveTime": "5",
+        "productImg": "loan-product3",
+        "guaranteeType": "3",
+        "interestRate": "5%",
+        "maxAmount": "120000",
+        "minAmount": "10000",
+        "validOfQuota": "2021-12-12",
+        "rate": "4.5%",
+        "conditionsList": [
+          {
+            "condition": "企业成立满两年"
+          },
+          {
+            "condition": "企业纳税等级非C、D级"
+          }
+        ],
+        "productFeaturesList": [
+          {
+            "productFeature": "最快两小时审批"
+          },
+          {
+            "productFeature": "还款方式灵活"
+          }
+        ],
+        "rpyMode": "9",
+        "serialNo": "500001",
+        "loanAmt": "500000",
+        "RpyMode": null,
+        "isHaveHXProduct": "0",
+        "status": "1",
+        "loanLndActNo": "65662121231113344",
+        "loanLndActName": "张三",
+        "loanBankNo": "8999",
+        "loanBankName": "中国银行",
+        "loanDate": "20200808",
+        "remainAmt": "30000",
+        "principalAmt": "50000",
+        "principalInter": "1888",
+        "penaltyInter": "888",
+        "CompInter": null,
+        "waitAmt": "28000",
+        "loanPurpose": "3",
+        "usage": "3",
+        "handlingProcess": "线上申请",
+        "myAmount": "30000",
+        "reapplyFlag": "1",
+        "settleLoanFlag": "1",
+        "typeDes": "“消费贷”为赣州银行面向个人，研发的互联网贷款产品。",
+        "typeMaxQuota": "500万",
+        "typeRate": null,
+        "typeTags": "利率低至4.5%",
+        "typeEligibility": "（1）申请人为企业法定代表人。 \\r\\n（2）申请人年龄22周岁（含）-59周岁（含），无不良信用记录。 \\r\\n（3）企业成立2年（含）以上，具有合法经营资质，无不良信用记录。"
+      },
+      {
+        "prodCode": "10089",
+        "prodName": "灵活贷",
+        "productDescription": "可循环，可续贷，额度高",
+        "term": "12",
+        "approveTime": "6",
+        "productImg": "loan-product4",
+        "guaranteeType": "3",
+        "interestRate": "5%",
+        "maxAmount": "200000",
+        "minAmount": "10000",
+        "validOfQuota": "2021-12-12",
+        "rate": "8.19%",
+        "conditionsList": [
+          {
+            "condition": "企业成立满两年"
+          },
+          {
+            "condition": "企业纳税等级非C、D级"
+          }
+        ],
+        "productFeaturesList": [
+          {
+            "productFeature": "最快两小时审批"
+          },
+          {
+            "productFeature": "还款方式灵活"
+          }
+        ],
+        "rpyMode": "9",
+        "serialNo": "10001",
+        "loanAmt": "100000",
+        "RpyMode": null,
+        "isHaveHXProduct": "0",
+        "status": "1",
+        "loanLndActNo": "65662121231113344",
+        "loanLndActName": "张三",
+        "loanBankNo": "8999",
+        "loanBankName": "中国银行",
+        "loanDate": "20200808",
+        "remainAmt": "30000",
+        "principalAmt": "50000",
+        "principalInter": "1888",
+        "penaltyInter": "888",
+        "CompInter": null,
+        "waitAmt": "28000",
+        "loanPurpose": "4",
+        "usage": "4",
+        "handlingProcess": "线下申请",
+        "myAmount": "200000",
+        "reapplyFlag": "0",
+        "settleLoanFlag": "1",
+        "typeDes": "“灵活贷”为赣州银行面向个人，研发的互联网贷款产品。",
+        "typeMaxQuota": "300万",
+        "typeRate": null,
+        "typeTags": "利率低至8.19%",
+        "typeEligibility": "（1）申请人为企业法定代表人。 \\r\\n（2）申请人年龄22周岁（含）-59周岁（含），无不良信用记录。 \\r\\n（3）企业成立2年（含）以上，具有合法经营资质，无不良信用记录。"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810601",
+      "respTime": "2021-12-21 09:49:35",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

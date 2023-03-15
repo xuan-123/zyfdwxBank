@@ -1,0 +1,16 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "appId": "wx94a465e4453038dc",
+    "timestamp": "1640056165",
+    "nonceStr": "fd7b4287-335f-4cca-889d-5664102cebcf",
+    "signature": "9df23bf1cfe02fa99c2c681d52607819591a67c2",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063944101",
+      "respTime": "2021-12-21 11:09:25",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "bookCode": "151651",
+    "mobilePhone": "18565652584",
+    "bookDate": "2021-12-24",
+    "bookTime": "09:00-10:00",
+    "bookWeek": "周五",
+    "deptId": "20320002",
+    "deptName": "科蓝银行滨洲支行",
+    "bookAddress": "合肥市科蓝银行",
+    "bookAmount": "100000",
+    "purpose": "1",
+    "bookState": "0",
+    "athrInfoGroup": null,
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063786596",
+      "respTime": "2021-12-21 09:29:21",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

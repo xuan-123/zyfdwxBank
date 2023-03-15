@@ -1,0 +1,46 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "professionId": "0",
+        "professionName": "国家机关、党群组织、企业、事业单位负责人"
+      },
+      {
+        "professionId": "1",
+        "professionName": "专业技术人员"
+      },
+      {
+        "professionId": "2",
+        "professionName": "办事人员和有关人员"
+      },
+      {
+        "professionId": "3",
+        "professionName": "商业、服务业人员"
+      },
+      {
+        "professionId": "4",
+        "professionName": "农、林、牧、渔、水利业生产人员"
+      },
+      {
+        "professionId": "5",
+        "professionName": "生产、运输设备操作人员及有关人员"
+      },
+      {
+        "professionId": "6",
+        "professionName": "军人"
+      },
+      {
+        "professionId": "7",
+        "professionName": "其他从业人员"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063901609",
+      "respTime": "2021-12-21 10:59:43",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

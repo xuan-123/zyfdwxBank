@@ -1,0 +1,16 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "commonResponseHead": {
+      "globalJnlNo": "20211223200065257552",
+      "respTime": "2021-12-23 14:50:12",
+      "processState": "OK",
+      "jnlState": "00",
+      "pageNo": "1",
+      "totalCount": "25"
+    },
+    "authenticateTypeList": null,
+    "athrInfoGroup": null
+  }
+}

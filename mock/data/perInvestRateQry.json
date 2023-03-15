@@ -1,0 +1,221 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "releaseDate": "2021-11-18",
+    "rmbRateList": [
+      {
+        "level": "1",
+        "order": null,
+        "depositName": "城乡居民存款",
+        "depositList": [
+          {
+            "depositType": "活期存款",
+            "rate": "1.55%",
+            "hangRate": "1.60%",
+            "level": "2",
+            "order": null
+          },
+          {
+            "depositType": "定期存款",
+            "rate": null,
+            "hangRate": null,
+            "level": "2",
+            "order": "1"
+          }
+        ]
+      },
+      {
+        "level": "3",
+        "order": "1",
+        "depositName": "整存整取",
+        "depositList": [
+          {
+            "depositType": "三个月",
+            "rate": "1.75%",
+            "hangRate": "1.80%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "半年",
+            "rate": "2.68%",
+            "hangRate": "2.70%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "一年",
+            "rate": "2.98%",
+            "hangRate": "3.10%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "两年",
+            "rate": "3.56%",
+            "hangRate": "3.60%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "三年",
+            "rate": "3.85%",
+            "hangRate": "4.00%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "五年",
+            "rate": "4.15%",
+            "hangRate": "4.30%",
+            "level": null,
+            "order": null
+          }
+        ]
+      },
+      {
+        "level": "3",
+        "order": "1",
+        "depositName": "零存整取",
+        "depositList": [
+          {
+            "depositType": "1年期零存整取",
+            "rate": "2.78%",
+            "hangRate": "2.80%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "2年期零存整取",
+            "rate": "3.15%",
+            "hangRate": "3.30%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "3年期零存整取",
+            "rate": "4.15%",
+            "hangRate": "4.60%",
+            "level": null,
+            "order": null
+          }
+        ]
+      },
+      {
+        "level": "3",
+        "order": "1",
+        "depositName": "定活两便",
+        "depositList": [
+          {
+            "depositType": "3月期定活两便",
+            "rate": "3.35%",
+            "hangRate": "1.60%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "6月期定活两便",
+            "rate": "2.37%",
+            "hangRate": "1.60%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "1年期定活两便",
+            "rate": "2.38%",
+            "hangRate": "1.60%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "2年期定活两便",
+            "rate": "2.45%",
+            "hangRate": "1.60%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "3年期定活两便",
+            "rate": "2.65%",
+            "hangRate": "1.60%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "5年期定活两便",
+            "rate": "2.75%",
+            "hangRate": "1.60%",
+            "level": null,
+            "order": null
+          }
+        ]
+      },
+      {
+        "level": "3",
+        "order": "1",
+        "depositName": "协定存款",
+        "depositList": [
+          {
+            "depositType": "协定存款",
+            "rate": "1.55%",
+            "hangRate": "1.60%",
+            "level": null,
+            "order": null
+          }
+        ]
+      },
+      {
+        "level": "1",
+        "order": null,
+        "depositName": "通知存款",
+        "depositList": [
+          {
+            "depositType": "一天通知",
+            "rate": "2.75%",
+            "hangRate": "2.90%",
+            "level": null,
+            "order": null
+          },
+          {
+            "depositType": "七天通知",
+            "rate": "2.78%",
+            "hangRate": "2.90%",
+            "level": null,
+            "order": null
+          }
+        ]
+      }
+    ],
+    "loanRateList": [
+      {
+        "loanType": "短期贷款",
+        "loanList": [
+          {
+            "loanTerm": "1年以内（含1年）",
+            "rate": "5.85%"
+          }
+        ]
+      },
+      {
+        "loanType": "中长期贷款",
+        "loanList": [
+          {
+            "loanTerm": "1至5年",
+            "rate": "5.55%"
+          },
+          {
+            "loanTerm": "5年以上",
+            "rate": "4.55%"
+          }
+        ]
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810340",
+      "respTime": "2021-12-21 09:43:01",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

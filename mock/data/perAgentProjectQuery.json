@@ -1,0 +1,144 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "agentTypeCode": "1",
+        "agentTypeName": "电费",
+        "agentProCode": "001",
+        "agentProName": "合肥电费",
+        "agentItemOnlyId": "",
+        "agentCityCode": "3610",
+        "agentCityName": "合肥市",
+        "agentCompanyId": "guowanganhui1001",
+        "agentCompanyName": "国网安徽省电力公司",
+        "agentChannelType": "01"
+      },
+      {
+        "agentTypeCode": "2",
+        "agentTypeName": "水费",
+        "agentProCode": "002",
+        "agentProName": "合肥水费",
+        "agentItemOnlyId": "",
+        "agentCityCode": "3610",
+        "agentCityName": "合肥市",
+        "agentCompanyId": "hefeigongshui2001",
+        "agentCompanyName": "合肥供水集团有限公司",
+        "agentChannelType": "01"
+      },
+      {
+        "agentTypeCode": "2",
+        "agentTypeName": "水费",
+        "agentProCode": "002",
+        "agentProName": "合肥水费",
+        "agentItemOnlyId": "",
+        "agentCityCode": "3610",
+        "agentCityName": "合肥市",
+        "agentCompanyId": "hefeigongshui2002",
+        "agentCompanyName": "肥西自来水有限公司",
+        "agentChannelType": "01"
+      },
+      {
+        "agentTypeCode": "3",
+        "agentTypeName": "燃气费",
+        "agentProCode": "003",
+        "agentProName": "合肥燃气费",
+        "agentItemOnlyId": "",
+        "agentCityCode": "3610",
+        "agentCityName": "合肥市",
+        "agentCompanyId": "hefeiranqi3001",
+        "agentCompanyName": "合肥燃气集团有限公司",
+        "agentChannelType": "01"
+      },
+      {
+        "agentTypeCode": "3",
+        "agentTypeName": "燃气费",
+        "agentProCode": "003",
+        "agentProName": "合肥燃气费",
+        "agentItemOnlyId": "",
+        "agentCityCode": "3610",
+        "agentCityName": "合肥市",
+        "agentCompanyId": "hefeiranqi3002",
+        "agentCompanyName": "合肥中石油昆仑燃气有限公司",
+        "agentChannelType": "01"
+      },
+      {
+        "agentTypeCode": "20",
+        "agentTypeName": "暖气费",
+        "agentProCode": "020",
+        "agentProName": "合肥暖气费",
+        "agentItemOnlyId": "",
+        "agentCityCode": "3610",
+        "agentCityName": "合肥市",
+        "agentCompanyId": "hefeinuanqi4001",
+        "agentCompanyName": "合肥热电集团有限公司",
+        "agentChannelType": "01"
+      }
+    ],
+    "amtList": [
+      {
+        "amtFlag": "1",
+        "chooseAmt": "10",
+        "discountAmt": "9.9",
+        "discountFlag": "1",
+        "flow": "1"
+      },
+      {
+        "amtFlag": null,
+        "chooseAmt": "20",
+        "discountAmt": "19.8",
+        "discountFlag": "1",
+        "flow": "3"
+      },
+      {
+        "amtFlag": "1",
+        "chooseAmt": "30",
+        "discountAmt": "29.7",
+        "discountFlag": "1",
+        "flow": "5"
+      },
+      {
+        "amtFlag": "1",
+        "chooseAmt": "50",
+        "discountAmt": "49.5",
+        "discountFlag": "1",
+        "flow": "10"
+      },
+      {
+        "amtFlag": null,
+        "chooseAmt": "68",
+        "discountAmt": null,
+        "discountFlag": null,
+        "flow": "15"
+      },
+      {
+        "amtFlag": null,
+        "chooseAmt": "80",
+        "discountAmt": null,
+        "discountFlag": null,
+        "flow": "20"
+      },
+      {
+        "amtFlag": "1",
+        "chooseAmt": "100",
+        "discountAmt": "99",
+        "discountFlag": "1",
+        "flow": null
+      },
+      {
+        "amtFlag": "2",
+        "chooseAmt": "200",
+        "discountAmt": "198",
+        "discountFlag": "1",
+        "flow": null
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811737",
+      "respTime": "2021-12-21 10:18:52",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

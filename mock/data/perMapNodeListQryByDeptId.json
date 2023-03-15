@@ -1,0 +1,46 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "busiStatus": "0",
+        "mapNodeSeq": "2",
+        "mapNodeType": "1",
+        "mapNodeName": "工商银行瑶海支行",
+        "deptSeq": "100666",
+        "deptId": "100666",
+        "lon": "115.42033112499997",
+        "lat": "40.15205665100882",
+        "nodeAddr": "安徽省合肥市瑶海区区福州路102号",
+        "description": "ATM02",
+        "postCode": " ",
+        "telPhone": "0551-67688999",
+        "email": " ",
+        "addrCityCode": "1100",
+        "addrCityName": "天津市",
+        "addrDistrict": " ",
+        "workdayTime": "09:00-17:00",
+        "orderFlag": "0",
+        "largeCashFlag": "1",
+        "immediateOrderFlag": "1",
+        "changeExchangeFlag": null,
+        "saveWthdwBookFlag": null,
+        "esbFlag": " ",
+        "remark": null,
+        "currentState": "00",
+        "updateTime": "2021-10-14 14:04:21",
+        "createTime": "2021-09-24 13:53:58",
+        "headPicture": null,
+        "distance": null,
+        "firstChar": "G"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063786619",
+      "respTime": "2021-12-21 09:29:54",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

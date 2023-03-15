@@ -1,0 +1,30 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "totalAmt": "14502222",
+    "debtAmt": "600",
+    "depositInvestTotal": "12002222",
+    "totalAcctBal": "2500000",
+    "investTotal": "11120000",
+    "depositTotal": "882222",
+    "fundTotal": "12384500",
+    "creditAmt": "0",
+    "loanAmt": "600",
+    "loanAmt1": "600",
+    "loanAmt2": "600",
+    "loanAmt3": "600",
+    "mouthPayAmt": "300",
+    "investYesterdayIncome": "-300",
+    "yesterdayDate": "2021-12-22",
+    "balProportion": "17.24%",
+    "depositProportion": "6.08%",
+    "investProportion": "76.68%",
+    "commonResponseHead": {
+      "globalJnlNo": "20211223200065257573",
+      "respTime": "2021-12-23 14:50:29",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

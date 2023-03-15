@@ -1,0 +1,81 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "loanTotalAmt": "60000",
+    "loanDate": "2021-12-10",
+    "loanTerm": "12",
+    "totalCount": "4",
+    "count": "10",
+    "currentPage": "2",
+    "pageSize": "10",
+    "list": [
+      {
+        "repayType": "0",
+        "repayTime": "15",
+        "repayDate": "2021-02-19 12:12:06",
+        "statementDate": "2021-09-15",
+        "repayInterestAmt": "500",
+        "returnMoney": "5000",
+        "repayNum": "04",
+        "totalRepayNum": "10",
+        "repayState": "1",
+        "repayAcct": "6259324489965570",
+        "repayCost": "500",
+        "penaltyInterest": "200",
+        "repayPrincipalAmt": "4500"
+      },
+      {
+        "repayType": "1",
+        "repayTime": "15",
+        "repayDate": "2021-02-18 12:12:06",
+        "statementDate": "2021-08-15",
+        "repayInterestAmt": "500",
+        "returnMoney": "5000",
+        "repayNum": "03",
+        "totalRepayNum": "10",
+        "repayState": "1",
+        "repayAcct": "6259324489965570",
+        "repayCost": "500",
+        "penaltyInterest": "200",
+        "repayPrincipalAmt": "4500"
+      },
+      {
+        "repayType": "0",
+        "repayTime": "15",
+        "repayDate": "2021-02-11 12:12:06",
+        "statementDate": "2021-07-15",
+        "repayInterestAmt": "500",
+        "returnMoney": "5000",
+        "repayNum": "02",
+        "totalRepayNum": "10",
+        "repayState": "0",
+        "repayAcct": "6259324489965570",
+        "repayCost": "",
+        "penaltyInterest": "",
+        "repayPrincipalAmt": "4500"
+      },
+      {
+        "repayType": "1",
+        "repayTime": "15",
+        "repayDate": "2021-02-12 12:12:06",
+        "statementDate": "2021-06-15",
+        "repayInterestAmt": "500",
+        "returnMoney": "5000",
+        "repayNum": "01",
+        "totalRepayNum": "10",
+        "repayState": "0",
+        "repayAcct": "6259324489965570",
+        "repayCost": "",
+        "penaltyInterest": "",
+        "repayPrincipalAmt": "4500"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810548",
+      "respTime": "2021-12-21 09:48:15",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

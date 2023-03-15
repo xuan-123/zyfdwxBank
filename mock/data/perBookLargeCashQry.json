@@ -1,0 +1,24 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "hostJnlNo": "100000002",
+    "deptName": "科蓝银行信州支行营业部",
+    "bookCode": "0126",
+    "bookState": "0",
+    "bookDate": "20211025",
+    "bookTime": "09:00-10:00",
+    "acNo": "62141234100770684",
+    "purpose": "1",
+    "amount": "666",
+    "idType": "P02",
+    "idNo": "32021919810331155X",
+    "mobilePhone": "13666666666",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063786611",
+      "respTime": "2021-12-21 09:29:40",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "subAcNo": "75673744856547",
+        "noticeAmount": "10000",
+        "currency": "CNY",
+        "depositTerm": "M001",
+        "noticeDate": "2021-09-09",
+        "withdrawDate": "2021-09-09",
+        "authWithdrawFlag": "0",
+        "noticeType": "1"
+      },
+      {
+        "subAcNo": "75673744856547",
+        "noticeAmount": "1000",
+        "currency": "CNY",
+        "depositTerm": "M001",
+        "noticeDate": "2021-09-09",
+        "withdrawDate": "2021-11-09",
+        "authWithdrawFlag": "0",
+        "noticeType": "1"
+      },
+      {
+        "subAcNo": "75673744856547",
+        "noticeAmount": "10000",
+        "currency": "CNY",
+        "depositTerm": "Y001",
+        "noticeDate": "2021-09-09",
+        "withdrawDate": "2021-09-09",
+        "authWithdrawFlag": "0",
+        "noticeType": "1"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211223200065257337",
+      "respTime": "2021-12-23 14:44:31",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

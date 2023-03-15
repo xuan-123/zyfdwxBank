@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>导航页</title>
+</head>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+  }
+
+  a {
+    margin: 0 20px;
+  }
+</style>
+
+<body>
+  <div id="app">
+    <div>模块：</div>
+    <div v-for="(item, index) in list" :key="index">
+      <a :href="item.chunk">{{item.chunkName}}</a>
+    </div>
+  </div>
+  <script src="../static/vue.js"></script>
+  <script>
+    var app = new Vue({
+      el: '#app',
+      data: {
+        list: [
+          // { chunk: 'calculator', chunkName: 'calculator' }, // 金融工具
+          // { chunk: 'common', chunkName: 'common' }, // 公共模块: 微信通知，app下载
+          // { chunk: 'credit-card', chunkName: 'credit-card' }, // 信用卡 *
+          // { chunk: 'finance-deposit', chunkName: 'finance-deposit' }, // 投资理财、存款
+          // { chunk: 'life', chunkName: 'life' }, // 缴费服务 *
+          // { chunk: 'loan', chunkName: 'loan' }, // 贷款
+          // { chunk: 'more', chunkName: 'more' }, // 更多
+          // { chunk: 'my-account', chunkName: 'my-account' }, // 账户服务、在线开户 *
+          // { chunk: 'reservation-service', chunkName: 'reservation-service' }, // 预约服务
+          // { chunk: 'fund', chunkName: 'fund' }, // 基金
+          // { chunk: 'sign', chunkName: 'sign' }, // 登录注册
+          // { chunk: 'my-loan', chunkName: 'my-loan' }, // 登录注册
+          { chunk: 'bind-card', chunkName: 'bind-card' }, // 绑卡
+        ],
+      },
+      mounted() { },
+      methods: {},
+    });
+  </script>
+</body>
+
+</html>

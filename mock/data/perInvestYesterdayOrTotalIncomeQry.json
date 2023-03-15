@@ -1,0 +1,17 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "yestdate": "2021-08-14",
+    "lastEarning": "-300",
+    "totalEarning": "5454",
+    "cumulativeTotalEarning": "12000.23",
+    "totalPositionAmt": "2500026.85",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811222",
+      "respTime": "2021-12-21 10:11:27",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

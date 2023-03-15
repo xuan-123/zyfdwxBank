@@ -1,0 +1,40 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "depositCode": "BLTF202006",
+    "depositSeq": "28",
+    "depositName": "大额存单007",
+    "depositType": "5",
+    "depositStatus": "1",
+    "currency": "CNY",
+    "depositDeptId": "15672",
+    "beginDate": "2021-01-01 00:00:00",
+    "endDate": "2022-09-02 00:00:00",
+    "expiryDate": "2022-01-03 00:00:00",
+    "incomeDate": "2021-01-01 00:00:00",
+    "redeemFlag": "1",
+    "redeemRate": "1.78",
+    "firstAmount": "10000",
+    "increaseAmount": "1000",
+    "depositTerm": "Y006",
+    "interestType": "0",
+    "termType": "Y",
+    "expectRate": "3.85",
+    "totalLimit": "80000000",
+    "saleLimit": "300000",
+    "remainLimit": "79700000",
+    "allowRedeemDate": null,
+    "expectedRaisedFunds": "198000000",
+    "transferAllow": "0",
+    "pledgeAllow": "0",
+    "partDrawAllow": "0",
+    "prdSpecification": "《产品说明书》",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811533",
+      "respTime": "2021-12-21 10:14:52",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

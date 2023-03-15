@@ -1,0 +1,20 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "hostJnlNo": "100000003",
+    "deptName": "科蓝银行村镇银行滨洲支行",
+    "bookCode": "1235",
+    "bookState": "0",
+    "bookDate": "20211025",
+    "amount": "666",
+    "mobilePhone": "13666666666",
+    "acNo": "62141234100770687",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063786614",
+      "respTime": "2021-12-21 09:29:44",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "result": "您好，您已经在我行预约开户，请在2021年12月12日之前到我行任意网点办理业务，在2021年12月12日之后方可再次预约",
+    "status": "0",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063786509",
+      "respTime": "2021-12-21 09:27:20",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "amount": null,
+    "incomeDate": null,
+    "balance": "11000201",
+    "availBalance": "100000",
+    "frozenBalance": "1500.00",
+    "lastDayBalance": null,
+    "accumulatedArrears": null,
+    "currency": "CNY",
+    "depositTerm": null,
+    "acctName": null,
+    "interestRate": null,
+    "typeNotice": null,
+    "telPhone": "18130425895",
+    "openChannel": "1",
+    "physicalCardFlag": "1",
+    "acctLevel": "1",
+    "status": "N",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811740",
+      "respTime": "2021-12-21 10:18:53",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

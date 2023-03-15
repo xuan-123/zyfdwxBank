@@ -1,0 +1,120 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "cityCode": "010",
+        "cityName": "北京市"
+      },
+      {
+        "cityCode": "1100",
+        "cityName": "天津市"
+      },
+      {
+        "cityCode": "1210",
+        "cityName": "石家庄市"
+      },
+      {
+        "cityCode": "1610",
+        "cityName": "太原市"
+      },
+      {
+        "cityCode": "2210",
+        "cityName": "沈阳市"
+      },
+      {
+        "cityCode": "3050",
+        "cityName": "苏州市"
+      },
+      {
+        "cityCode": "3201",
+        "cityName": "南京市"
+      },
+      {
+        "cityCode": "3301",
+        "cityName": "杭州市"
+      },
+      {
+        "cityCode": "3610",
+        "cityName": "合肥市"
+      },
+      {
+        "cityCode": "3640",
+        "cityName": "淮南市"
+      },
+      {
+        "cityCode": "3620",
+        "cityName": "芜湖市"
+      },
+      {
+        "cityCode": "3080",
+        "cityName": "安庆市"
+      },
+      {
+        "cityCode": "3710",
+        "cityName": "黄山市"
+      },
+      {
+        "cityCode": "3760",
+        "cityName": "六安市"
+      },
+      {
+        "cityCode": "4210",
+        "cityName": "南昌市"
+      },
+      {
+        "cityCode": "3100",
+        "cityName": "上海市"
+      },
+      {
+        "cityCode": "4400",
+        "cityName": "广州市"
+      },
+      {
+        "cityCode": "4403",
+        "cityName": "深圳市"
+      }
+    ],
+    "hotList": [
+      {
+        "cityCode": "1000",
+        "cityName": "北京市"
+      },
+      {
+        "cityCode": "1100",
+        "cityName": "天津市"
+      },
+      {
+        "cityCode": "3100",
+        "cityName": "上海市"
+      },
+      {
+        "cityCode": "4400",
+        "cityName": "广州市"
+      },
+      {
+        "cityCode": "4403",
+        "cityName": "深圳市"
+      },
+      {
+        "cityCode": "3050",
+        "cityName": "苏州市"
+      },
+      {
+        "cityCode": "3201",
+        "cityName": "南京市"
+      },
+      {
+        "cityCode": "3301",
+        "cityName": "杭州市"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811673",
+      "respTime": "2021-12-21 10:17:29",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

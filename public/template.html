@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>
+    <%= VUE_APP_TITLE %>
+  </title>
+  <style>
+    html,
+    body {
+      padding: 0;
+      margin: 0;
+      height: 100%;
+      background-color: var(--color-bg-default);
+    }
+
+    body #app {
+      /* height: 100%; */
+      /* overflow-y: auto; */
+    }
+  </style>
+  <link rel="stylesheet" type="text/css" href="<%= VUE_APP_APIURL %>/pmobilebase.css" />
+  <link rel="stylesheet" type="text/css" href="<%= VUE_APP_APIURL %>/cfcakeyboard/keyboard.css" />
+</head>
+
+<body>
+  <noscript>
+    <strong>We're sorry but mobile-standard-base doesn't work properly without JavaScript enabled. Please enable it to
+      continue.</strong>
+  </noscript>
+  <div id="app"></div>
+  <div id="loading" style="display: none;">
+    <div class="mask"></div>
+    <img class="loading" src="<%= VUE_APP_APIURL %>/loading.gif" alt="" />
+  </div>
+
+  <script src="<%= VUE_APP_APIURL %>/vue.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/axios.min.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/vue-router.min.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/vuex.min.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/vue-i18n.min.js"></script>
+  <!-- <script src="<%= VUE_APP_APIURL %>/zh_CN.js"></script> -->
+  <script src="<%= VUE_APP_APIURL %>/csii-vx-mobile.umd.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/vee-validate.min.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/pmobilebase.umd.min.js"></script>
+  <!-- 国密 -->
+  <script src="<%= VUE_APP_APIURL %>/gm/core.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/gm/jsbn.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/gm/jsbn2.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/gm/prng4.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/gm/rng.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/gm/ec.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/gm/ec-patch.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/gm/ecdsa-modified-1.0.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/gm/ecparam-1.0.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/gm/base64.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/gm/csiiPackageEnc.min.js"></script>
+
+  <script src="<%= VUE_APP_APIURL %>/cfcakeyboard/cfcasip.min.js"></script>
+  <script src="<%= VUE_APP_APIURL %>/cfcakeyboard/secretkeyboard.js"></script>
+
+  <script src="<%= VUE_APP_APIURL %>/imgcode.js"></script>
+
+
+  <!-- 密码键盘 -->
+  <!-- <script src="<%= VUE_APP_APIURL %>/encrypt/smcrypto.min.js"></script> -->
+
+  <!-- 云从 -->
+  <!-- <script src="<%= VUE_APP_APIURL %>/CWMediaCollector.js"></script> -->
+  <!-- <script src="<%= VUE_APP_APIURL %>/zepto.min.js"></script> -->
+
+  <!-- echarts -->
+  <!-- <script src="<%= VUE_APP_APIURL %>/echarts.min.js"></script> -->
+
+  <!-- 引入微信jssdk-->
+  <script>
+    if (/MicroMessenger/i.test(window.navigator.userAgent)) {
+      document.writeln('<script src="https://res2.wx.qq.com/open/js/jweixin-1.6.0.js"' + '>' + '<' + '/' + 'script>');
+    }
+  </script>
+  <!-- 支付宝 -->
+  <script>
+    if (navigator.userAgent.indexOf('AliApp') > -1) {
+      document.writeln('<script src="https://appx/web-view.min.js"' + '>' + '<' + '/' + 'script>');
+      document.writeln('<script src="https://gw.alipayobjects.com/as/g/h5-lib/alipayjsapi/3.1.1/alipayjsapi.min.js"' + '>' + '<' + '/' + 'script>');
+    }
+  </script>
+</body>
+
+</html>

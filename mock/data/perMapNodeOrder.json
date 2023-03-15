@@ -1,0 +1,21 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "orderDate": "2021-12-21",
+    "orderTime": "10:00-11:00",
+    "orderType": "人民币取款",
+    "mobilePhone": "0510-12345678",
+    "orderStatus": "正常",
+    "deptName": "北京XX支行",
+    "orderNo": "4390",
+    "addr": "北京朝阳区XX路108号XX支行",
+    "athrInfoGroup": null,
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063786489",
+      "respTime": "2021-12-21 09:26:49",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

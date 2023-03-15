@@ -1,0 +1,14 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "result": "0000",
+    "tranSerial": "20211025",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063901010",
+      "respTime": "2021-12-21 10:48:55",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

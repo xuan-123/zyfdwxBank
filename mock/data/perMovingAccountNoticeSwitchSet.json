@@ -1,0 +1,16 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "agrmtNo": "10000099",
+    "hostJnlNo": "01001020101001",
+    "hostDate": "20231001",
+    "status": "0",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063900609",
+      "respTime": "2021-12-21 10:39:57",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

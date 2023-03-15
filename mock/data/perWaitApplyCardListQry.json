@@ -1,0 +1,78 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "descriptions": [
+          {
+            "title": "免年费",
+            "description": "免年费免年费免年费"
+          },
+          {
+            "title": "交易积分",
+            "description": "交易积分交易积分213"
+          }
+        ],
+        "cardName": "黑卡联名信用卡",
+        "cardType": "1",
+        "cardTrait": null,
+        "cardImg": "appCardExample1"
+      },
+      {
+        "descriptions": [
+          {
+            "title": "免年费",
+            "description": "免年费免年费免年费"
+          },
+          {
+            "title": "交易积分",
+            "description": "交易积分交易积分213"
+          }
+        ],
+        "cardName": "白金信用卡",
+        "cardType": "2",
+        "cardTrait": null,
+        "cardImg": "appCardExample2"
+      },
+      {
+        "descriptions": [
+          {
+            "title": "免年费",
+            "description": "免年费免年费免年费"
+          },
+          {
+            "title": "交易积分",
+            "description": "交易积分交易积分213"
+          }
+        ],
+        "cardName": "黄金信用卡",
+        "cardType": "3",
+        "cardTrait": null,
+        "cardImg": "appCardExample3"
+      },
+      {
+        "descriptions": [
+          {
+            "title": "免年费",
+            "description": "免年费免年费免年费"
+          },
+          {
+            "title": "交易积分",
+            "description": "交易积分交易积分213"
+          }
+        ],
+        "cardName": "数字银行信用卡",
+        "cardType": "4",
+        "cardTrait": null,
+        "cardImg": "appCardExample4"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810713",
+      "respTime": "2021-12-21 09:53:22",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

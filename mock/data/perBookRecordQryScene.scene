@@ -1,0 +1,67 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "hostJnlNo": "100000001",
+        "deptId": "100666",
+        "deptName": "科蓝银行吉州支行",
+        "bookCode": "0123",
+        "serverWinNum": "02",
+        "lineUpNum": "05",
+        "bookDate": "20211225",
+        "bookTime": "09:00-10:00",
+        "bookAddress": "北京市科蓝软件产业园中山西路7号长盛苑3栋2号门面",
+        "businessTypes": "0",
+        "bookState": "0"
+      },
+      {
+        "hostJnlNo": "100000002",
+        "deptId": "100377",
+        "deptName": "科蓝银行信州支行营业部",
+        "bookCode": "0126",
+        "serverWinNum": "06",
+        "lineUpNum": "05",
+        "bookDate": "20211025",
+        "bookTime": "09:00-10:00",
+        "bookAddress": "北京市科蓝软件产业园信江东路36号",
+        "businessTypes": "1",
+        "bookState": "0"
+      },
+      {
+        "hostJnlNo": "100000003",
+        "deptId": "100893",
+        "deptName": "科蓝银行村镇银行滨洲支行",
+        "bookCode": "1235",
+        "serverWinNum": "02",
+        "lineUpNum": "08",
+        "bookDate": "20211025",
+        "bookTime": "09:00-10:00",
+        "bookAddress": "北京市科蓝软件产业园滨洲花园C栋101-108号",
+        "businessTypes": "2",
+        "bookState": "0"
+      },
+      {
+        "hostJnlNo": "100000004",
+        "deptId": "100894",
+        "deptName": "科蓝银行村镇银行滨洲支行",
+        "bookCode": "1235",
+        "serverWinNum": "02",
+        "lineUpNum": "08",
+        "bookDate": "20211025",
+        "bookTime": "09:00-10:00",
+        "bookAddress": "北京市科蓝软件产业园滨洲花园C栋101-108号",
+        "businessTypes": "3",
+        "bookState": "3"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211222200064371244",
+      "respTime": "2021-12-22 09:22:26",
+      "processState": "OK",
+      "jnlState": "00",
+      "totalCount": "4"
+    }
+  }
+}

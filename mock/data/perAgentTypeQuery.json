@@ -1,0 +1,38 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "agentTypeCode": "1",
+        "agentTypeName": "电费"
+      },
+      {
+        "agentTypeCode": "2",
+        "agentTypeName": "水费"
+      },
+      {
+        "agentTypeCode": "3",
+        "agentTypeName": "燃气费"
+      },
+      {
+        "agentTypeCode": "4",
+        "agentTypeName": "手机充值"
+      },
+      {
+        "agentTypeCode": "20",
+        "agentTypeName": "供暖费"
+      },
+      {
+        "agentTypeCode": "12",
+        "agentTypeName": "流量充值"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811571",
+      "respTime": "2021-12-21 10:15:27",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

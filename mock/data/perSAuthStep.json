@@ -1,0 +1,14 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "authRes": true,
+    "nextSingleAuthType": "end",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810976",
+      "respTime": "2021-12-21 10:02:43",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

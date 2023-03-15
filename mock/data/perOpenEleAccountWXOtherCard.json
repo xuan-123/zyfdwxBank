@@ -1,0 +1,18 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "eleAcNo": "62141234100953711",
+    "acStatus": null,
+    "bankAcType": null,
+    "athrInfoGroup": null,
+    "commonResponseHead": {
+      "globalJnlNo": "20211222200064768101",
+      "respTime": "2021-12-22 15:52:09",
+      "processState": "OK",
+      "jnlState": "00",
+      "pageNo": "1",
+      "totalCount": "2"
+    }
+  }
+}

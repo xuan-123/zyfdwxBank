@@ -1,0 +1,14 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "sendRes": true,
+    "index": "20211221001",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063944057",
+      "respTime": "2021-12-21 11:08:04",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

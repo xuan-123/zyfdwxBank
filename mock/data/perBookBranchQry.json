@@ -1,0 +1,23 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "hostJnlNo": "100000001",
+    "deptName": "科蓝银行吉州支行",
+    "bookCode": "0123",
+    "bookState": "0",
+    "bookDate": "20211225",
+    "bookTime": "09:00-10:00",
+    "orderType": "1",
+    "amount": "666",
+    "idType": "P02",
+    "idNo": "32021919810331155X",
+    "mobilePhone": "13666666666",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063786609",
+      "respTime": "2021-12-21 09:29:37",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

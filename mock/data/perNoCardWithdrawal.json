@@ -1,0 +1,19 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "result": "成功",
+    "bookCode": "202110200001",
+    "deptName": "招商银行丰台支行",
+    "validity": "20211023",
+    "address": "北京市丰台区201号",
+    "bookState": "0",
+    "athrInfoGroup": null,
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063786606",
+      "respTime": "2021-12-21 09:29:30",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

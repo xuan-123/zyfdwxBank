@@ -1,0 +1,13 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "result": "请3日内携带本人有效身份证件亲临我行任意网点办理开户",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063786522",
+      "respTime": "2021-12-21 09:27:49",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

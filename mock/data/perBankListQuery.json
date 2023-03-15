@@ -1,0 +1,1256 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "bkctgrycd": "775",
+        "bankName": "德富泰银行有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "776",
+        "bankName": "荷兰合作银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "781",
+        "bankName": "厦门国际银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "782",
+        "bankName": "上海--巴黎国际银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "783",
+        "bankName": "福建亚洲银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "784",
+        "bankName": "浙江商业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "785",
+        "bankName": "华商银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "786",
+        "bankName": "青岛国际银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "787",
+        "bankName": "富邦华一银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "888",
+        "bankName": "上饶银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "901",
+        "bankName": "中央国债登记结算有限责任公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "902",
+        "bankName": "人民银行公开市场操作室",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "903",
+        "bankName": "外汇交易中心",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "904",
+        "bankName": "城市商业银行资金清算中心",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "905",
+        "bankName": "中国银联股份有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "906",
+        "bankName": "代收付清算组织",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "907",
+        "bankName": "财务公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "908",
+        "bankName": "电子商业汇票处理中心",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "909",
+        "bankName": "上海清算所",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "969",
+        "bankName": "澳门清算行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "989",
+        "bankName": "香港人民币清算行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "999",
+        "bankName": "票交所",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "325",
+        "bankName": "上海银行股份有限公司",
+        "orderId": null,
+        "shortPinYin": "SHYHGFYXGS",
+        "pinYin": "Shang Hai Yin Hang Gu Fen You Xian Gong Si",
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "109",
+        "bankName": "北京银行",
+        "orderId": "0",
+        "shortPinYin": "BJYH",
+        "pinYin": "Bei Jing Yin Hang",
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "110",
+        "bankName": "江苏银行",
+        "orderId": "0",
+        "shortPinYin": "JSYH",
+        "pinYin": "Jiang Su Yin Hang",
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "111",
+        "bankName": "北京农村商业银行",
+        "orderId": "0",
+        "shortPinYin": "BJNCSYYH",
+        "pinYin": "Bei Jing Nong Cun Shang Ye Yin Hang",
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "101",
+        "bankName": "科蓝银行",
+        "orderId": "0",
+        "shortPinYin": "KLYH",
+        "pinYin": "kelanyinhang",
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "102",
+        "bankName": "中国工商银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "103",
+        "bankName": "中国农业银行",
+        "orderId": "0",
+        "shortPinYin": "ICBC",
+        "pinYin": "gongshangyinhang",
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "104",
+        "bankName": "中国银行",
+        "orderId": "0",
+        "shortPinYin": " ",
+        "pinYin": "jiansheyinhang",
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "105",
+        "bankName": "中国建设银行",
+        "orderId": "0",
+        "shortPinYin": " ",
+        "pinYin": "jiansheyinhang",
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "201",
+        "bankName": "国家开发银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "202",
+        "bankName": "中国进出口银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "203",
+        "bankName": "中国农业发展银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "301",
+        "bankName": "交通银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "302",
+        "bankName": "中信银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "303",
+        "bankName": "中国光大银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "304",
+        "bankName": "华夏银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "305",
+        "bankName": "中国民生银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "306",
+        "bankName": "广发银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "307",
+        "bankName": "平安银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "308",
+        "bankName": "招商银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "309",
+        "bankName": "福建兴业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "310",
+        "bankName": "上海浦东发展银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "313",
+        "bankName": "城市商业银行",
+        "orderId": "0",
+        "shortPinYin": "CSSYYY",
+        "pinYin": "chengshishangyeyinhang",
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "314",
+        "bankName": "农村商业银行",
+        "orderId": "0",
+        "shortPinYin": "CSSYYY",
+        "pinYin": "chengshishangyeyinhang",
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "315",
+        "bankName": "恒丰银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "316",
+        "bankName": "浙商银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "317",
+        "bankName": "农村合作银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "318",
+        "bankName": "渤海银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "319",
+        "bankName": "徽商银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "320",
+        "bankName": "村镇银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "321",
+        "bankName": "重庆三峡银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "322",
+        "bankName": "上海农村商业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "323",
+        "bankName": "民营银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "401",
+        "bankName": "城市信用合作社",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "402",
+        "bankName": "农村信用合作社",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "403",
+        "bankName": "邮政储汇",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "501",
+        "bankName": "汇丰银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "502",
+        "bankName": "东亚银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "503",
+        "bankName": "南洋商业银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "504",
+        "bankName": "恒生银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "505",
+        "bankName": "中银香港",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "506",
+        "bankName": "集友银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "507",
+        "bankName": "创兴银行有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "508",
+        "bankName": "大众银行（香港）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "509",
+        "bankName": "星展银行（香港）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "510",
+        "bankName": "永亨银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "511",
+        "bankName": "上海商业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "512",
+        "bankName": "永隆银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "513",
+        "bankName": "大新银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "514",
+        "bankName": "中信银行国际（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "521",
+        "bankName": "华南商业银行股份有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "522",
+        "bankName": "彰化商业银行股份有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "523",
+        "bankName": "国泰世华商业银行股份有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "524",
+        "bankName": "合作金库商业银行股份有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "525",
+        "bankName": "第一商业银行股份有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "526",
+        "bankName": "台湾土地银行股份有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "527",
+        "bankName": "兆丰国际商业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "528",
+        "bankName": "台湾银行股份有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "529",
+        "bankName": "玉山商业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "531",
+        "bankName": "花旗银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "532",
+        "bankName": "美国银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "533",
+        "bankName": "摩根大通银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "534",
+        "bankName": "美国建东银行有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "535",
+        "bankName": "美一银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "536",
+        "bankName": "纽约银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "537",
+        "bankName": "美国富国银行有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "551",
+        "bankName": "印度国家银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "561",
+        "bankName": "三菱东京日联银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "562",
+        "bankName": "日联银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "563",
+        "bankName": "三井住友银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "564",
+        "bankName": "瑞穗银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "565",
+        "bankName": "山口银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "566",
+        "bankName": "日本住友信托银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "567",
+        "bankName": "日本横滨银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "581",
+        "bankName": "挪威银行公共有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "591",
+        "bankName": "外换银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "592",
+        "bankName": "朝兴银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "593",
+        "bankName": "友利银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "594",
+        "bankName": "韩国产业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "595",
+        "bankName": "新韩银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "596",
+        "bankName": "企业银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "597",
+        "bankName": "韩亚银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "598",
+        "bankName": "韩国国��银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "600",
+        "bankName": "其他外资银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "611",
+        "bankName": "马来亚银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "616",
+        "bankName": "首都银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "621",
+        "bankName": "华侨银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "622",
+        "bankName": "大华银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "623",
+        "bankName": "星展银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "631",
+        "bankName": "盘古银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "632",
+        "bankName": "泰京银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "633",
+        "bankName": "泰华农民银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "641",
+        "bankName": "奥地利中央合作银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "651",
+        "bankName": "比利时联合银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "652",
+        "bankName": "比利时富通银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "661",
+        "bankName": "苏格兰皇家银行（中国）有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "662",
+        "bankName": "荷兰商业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "663",
+        "bankName": "荷兰万贝银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "671",
+        "bankName": "渣打银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "672",
+        "bankName": "苏格兰皇家银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "673",
+        "bankName": "英国巴克莱银行有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "681",
+        "bankName": "瑞典商业银行公共有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "682",
+        "bankName": "瑞典北欧斯安银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "683",
+        "bankName": "瑞典银行有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "684",
+        "bankName": "北欧银行瑞典有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "691",
+        "bankName": "法国兴业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "692",
+        "bankName": "法国巴黎银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "693",
+        "bankName": "东方汇理银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "694",
+        "bankName": "法国里昂信贷银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "695",
+        "bankName": "法国外贸银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "711",
+        "bankName": "德累斯顿银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "712",
+        "bankName": "德意志银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "713",
+        "bankName": "德国商业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "714",
+        "bankName": "西德意志银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "715",
+        "bankName": "巴伐利亚州银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "716",
+        "bankName": "德国北德意志州银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "717",
+        "bankName": "中德住房储蓄银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "731",
+        "bankName": "意大利裕信银行股份有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "732",
+        "bankName": "意大利联合圣保罗银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "733",
+        "bankName": "意大利西雅那银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "741",
+        "bankName": "瑞士信贷第一波士顿银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "742",
+        "bankName": "瑞士银行有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "751",
+        "bankName": "加拿大丰业银行有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "752",
+        "bankName": "蒙特利尔银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "761",
+        "bankName": "澳新银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "762",
+        "bankName": "澳大利亚西太平洋银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "765",
+        "bankName": "西班牙桑坦德银行有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "766",
+        "bankName": "葡国储蓄信贷银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "767",
+        "bankName": "俄罗斯外贸银行公开股份有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "771",
+        "bankName": "摩根士丹利国际银行有限公司",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "772",
+        "bankName": "宁波国际银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "773",
+        "bankName": "新联商业银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      },
+      {
+        "bkctgrycd": "774",
+        "bankName": "协和银行",
+        "orderId": "0",
+        "shortPinYin": null,
+        "pinYin": null,
+        "parentBkctgrycd": " "
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063900814",
+      "respTime": "2021-12-21 10:43:58",
+      "processState": "OK",
+      "jnlState": "00",
+      "pageNo": "1",
+      "totalCount": "155"
+    }
+  }
+}

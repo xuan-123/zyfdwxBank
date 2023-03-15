@@ -1,0 +1,60 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "rtnind": "0",
+    "totalCount": "2",
+    "pageIndex": null,
+    "pageSize": "5",
+    "list": [
+      {
+        "creditNo": "6217920688598989",
+        "consumptionDate": "20200702",
+        "authCode": "1234",
+        "currCode": "CNY",
+        "transSerial": "64543634621312",
+        "monthNbr": "2",
+        "cardEnd": "3234",
+        "transDesc2": "ms2",
+        "transDesc1": "ms1",
+        "transType": "1",
+        "cnacelFlag": "0",
+        "transDate": "20200702",
+        "consumptionTime": "20200702 12:03:45",
+        "transAmt": "400",
+        "recordDate": "20200803",
+        "merchantName": "中国移动",
+        "merchantType": "运营商",
+        "remark": "运营商",
+        "transAmtFlag": "+"
+      },
+      {
+        "creditNo": "6217920688598981",
+        "consumptionDate": "20200702",
+        "authCode": "1234",
+        "currCode": "CNY",
+        "transSerial": "64543634621312",
+        "monthNbr": "2",
+        "cardEnd": "3234",
+        "transDesc2": "ms2",
+        "transDesc1": "ms1",
+        "transType": "2",
+        "cnacelFlag": "0",
+        "transDate": "20200702",
+        "consumptionTime": "20200702 19:03:47",
+        "transAmt": "1600",
+        "recordDate": "20200803",
+        "merchantName": "中国移动",
+        "merchantType": "运营商",
+        "remark": "运营商",
+        "transAmtFlag": "+"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810901",
+      "respTime": "2021-12-21 09:59:25",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

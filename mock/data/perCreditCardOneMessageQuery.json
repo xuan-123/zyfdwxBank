@@ -1,0 +1,32 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "acNo": "6282239785656126",
+    "embName": "张三",
+    "email": "test@123.com",
+    "acctAddr": "合肥市包河区滨湖苑3号楼1单元",
+    "companyName": "csii",
+    "gender": "M",
+    "mobilePhone": "13312341234",
+    "unitPhone": "010-12345678",
+    "unitAddr": "合肥市包河区前程大使",
+    "addr": "合肥市包河区滨湖苑3号楼1单元",
+    "idType": "身份证",
+    "idNo": "123456788912345678",
+    "billAddr": "合肥市包河区滨湖苑3号楼1单元",
+    "city": "合肥市",
+    "province": "安徽省",
+    "billPostCode": "546895",
+    "cardPostCode": "547896",
+    "embEnName": "zhang san",
+    "sendType": "电子账单",
+    "billEmail": "asd@123.com",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810934",
+      "respTime": "2021-12-21 10:00:22",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

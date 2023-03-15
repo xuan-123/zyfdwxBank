@@ -1,0 +1,27 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "agentAcctNo": "2500061",
+    "agentAcctName": "黑白角龙",
+    "address": "北京市朝阳区朝阳门外大街吉祥里小区01号楼1806室",
+    "balance": "30",
+    "oweAmount": null,
+    "operator": "中国移动",
+    "agentCompanyName": "中国移动合肥分公司",
+    "paymentAmt": "2000.00",
+    "heatingUnitPrice": "20.00",
+    "heatingArea": "100.00",
+    "agentYear": "2021",
+    "transJnlNo": "30002500001001",
+    "lateFee": "66.00",
+    "agentChannelType": "4",
+    "rechargeFlow": "1G",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811738",
+      "respTime": "2021-12-21 10:18:53",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

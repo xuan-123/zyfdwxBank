@@ -1,0 +1,324 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "rtnind": "1",
+    "totalCount": "12",
+    "list": [
+      {
+        "billMonth": "202108",
+        "installState": "1",
+        "billDateSlot": "2021/08/01~2021/08/31",
+        "consumeDate": "2021-07-03 10:10",
+        "installPeriod": "3",
+        "installAmt": "2850.33",
+        "installIOUNo": "8751980437509",
+        "installType": "1",
+        "installTime": "20210801",
+        "installCharge": "200",
+        "remainOutAmt": "600",
+        "prePayCharge": "20",
+        "remainPeriod": "1",
+        "state": "1",
+        "periods": [
+          {
+            "amount": "100",
+            "periodDate": "20210805",
+            "done": "1"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20210905",
+            "done": "1"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20211005",
+            "done": "0"
+          }
+        ],
+        "consumes": [],
+        "installAddr": "上海大润发有限公司大润发辽阳路店"
+      },
+      {
+        "billMonth": "202107",
+        "installState": "1",
+        "billDateSlot": "2021/07/01~2021/07/31",
+        "consumeDate": "2021-06-03 10:10",
+        "installPeriod": "3",
+        "installAmt": "1578.56",
+        "installIOUNo": "8751980435864",
+        "installType": "1",
+        "installTime": "20210701",
+        "installCharge": "1600",
+        "remainOutAmt": "2730",
+        "prePayCharge": "50",
+        "remainPeriod": "1",
+        "state": "1",
+        "periods": [
+          {
+            "amount": "100",
+            "periodDate": "20210705",
+            "done": "1"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20210805",
+            "done": "1"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20210905",
+            "done": "0"
+          }
+        ],
+        "consumes": [],
+        "installAddr": "北京中国人寿2311"
+      },
+      {
+        "billMonth": "202106",
+        "installState": "4",
+        "billDateSlot": "2021/06/01~2021/06/30",
+        "consumeDate": "2021-05-03 10:10",
+        "installPeriod": "4",
+        "installAmt": "4567.88",
+        "installIOUNo": "8751980588888",
+        "installType": "2",
+        "installTime": "20210601",
+        "installCharge": "3500",
+        "remainOutAmt": "8600",
+        "prePayCharge": "80",
+        "remainPeriod": "1",
+        "state": "2",
+        "periods": [
+          {
+            "amount": "100",
+            "periodDate": "20210605",
+            "done": "1"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20210705",
+            "done": "1"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20210805",
+            "done": "1"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20210905",
+            "done": "0"
+          }
+        ],
+        "consumes": [
+          {
+            "creditNo": "6217920684598989",
+            "consumptionDate": "20210605",
+            "authCode": "12",
+            "currCode": "CNY",
+            "transSerial": "341252542343423",
+            "monthNbr": "8",
+            "cardEnd": "1234",
+            "transDesc2": "ms2",
+            "transDesc1": "ms1",
+            "transType": "1",
+            "cnacelFlag": "0",
+            "transDate": "20210605",
+            "consumptionTime": "20210605 12:30:00",
+            "transAmt": "100",
+            "recordDate": "20210605",
+            "merchantName": "中国移动",
+            "merchantType": "运营商",
+            "remark": "运营商",
+            "transAmtFlag": "+"
+          },
+          {
+            "creditNo": "6217920684598989",
+            "consumptionDate": "20210705",
+            "authCode": "12",
+            "currCode": "CNY",
+            "transSerial": "341252542343423",
+            "monthNbr": "8",
+            "cardEnd": "1234",
+            "transDesc2": "ms2",
+            "transDesc1": "ms1",
+            "transType": "1",
+            "cnacelFlag": "0",
+            "transDate": "20210705",
+            "consumptionTime": "20210705 12:30:00",
+            "transAmt": "100",
+            "recordDate": "20210705",
+            "merchantName": "中国移动",
+            "merchantType": "运营商",
+            "remark": "运营商",
+            "transAmtFlag": "+"
+          },
+          {
+            "creditNo": "6217920684598989",
+            "consumptionDate": "20210705",
+            "authCode": "12",
+            "currCode": "CNY",
+            "transSerial": "341252542343423",
+            "monthNbr": "8",
+            "cardEnd": "1234",
+            "transDesc2": "ms2",
+            "transDesc1": "ms1",
+            "transType": "1",
+            "cnacelFlag": "0",
+            "transDate": "20210705",
+            "consumptionTime": "20210705 12:30:00",
+            "transAmt": "100",
+            "recordDate": "20210705",
+            "merchantName": "中国移动",
+            "merchantType": "运营商",
+            "remark": "运营商",
+            "transAmtFlag": "+"
+          },
+          {
+            "creditNo": "6217920684598989",
+            "consumptionDate": "20210705",
+            "authCode": "12",
+            "currCode": "CNY",
+            "transSerial": "341252542343423",
+            "monthNbr": "8",
+            "cardEnd": "1234",
+            "transDesc2": "ms2",
+            "transDesc1": "ms1",
+            "transType": "1",
+            "cnacelFlag": "0",
+            "transDate": "20210705",
+            "consumptionTime": "20210705 12:30:00",
+            "transAmt": "100",
+            "recordDate": "20210705",
+            "merchantName": "中国移动",
+            "merchantType": "运营商",
+            "remark": "运营商",
+            "transAmtFlag": "+"
+          }
+        ],
+        "installAddr": "光明大厦2311"
+      },
+      {
+        "billMonth": "202105",
+        "installState": "3",
+        "billDateSlot": "2021/05/01~2021/05/31",
+        "consumeDate": "2021-04-03 10:10",
+        "installPeriod": "3",
+        "installAmt": "44557",
+        "installIOUNo": "1247541245454",
+        "installType": "2",
+        "installTime": "20210501",
+        "installCharge": "1271",
+        "remainOutAmt": "2560",
+        "prePayCharge": "30",
+        "remainPeriod": "2",
+        "state": "1",
+        "periods": [
+          {
+            "amount": "100",
+            "periodDate": "20210505",
+            "done": "1"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20210605",
+            "done": "0"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20210705",
+            "done": "0"
+          }
+        ],
+        "consumes": [
+          {
+            "creditNo": "6217920684598989",
+            "consumptionDate": "20210705",
+            "authCode": "12",
+            "currCode": "CNY",
+            "transSerial": "341252542343423",
+            "monthNbr": "8",
+            "cardEnd": "1234",
+            "transDesc2": "ms2",
+            "transDesc1": "ms1",
+            "transType": "1",
+            "cnacelFlag": "0",
+            "transDate": "20210705",
+            "consumptionTime": "20210705 12:30:00",
+            "transAmt": "100",
+            "recordDate": "20210705",
+            "merchantName": "中国移动",
+            "merchantType": "运营商",
+            "remark": "运营商",
+            "transAmtFlag": "+"
+          },
+          {
+            "creditNo": "6217920684598989",
+            "consumptionDate": "20210705",
+            "authCode": "12",
+            "currCode": "CNY",
+            "transSerial": "341252542343423",
+            "monthNbr": "8",
+            "cardEnd": "1234",
+            "transDesc2": "ms2",
+            "transDesc1": "ms1",
+            "transType": "1",
+            "cnacelFlag": "0",
+            "transDate": "20210705",
+            "consumptionTime": "20210705 12:30:00",
+            "transAmt": "100",
+            "recordDate": "20210705",
+            "merchantName": "中国移动",
+            "merchantType": "运营商",
+            "remark": "运营商",
+            "transAmtFlag": "+"
+          }
+        ],
+        "installAddr": "华盛顿特区555"
+      },
+      {
+        "billMonth": "202104",
+        "installState": "2",
+        "billDateSlot": "2021/04/01~2021/04/30",
+        "consumeDate": "2021-03-03 10:10",
+        "installPeriod": "3",
+        "installAmt": "2850.33",
+        "installIOUNo": "8751980437509",
+        "installType": "1",
+        "installTime": "20210401",
+        "installCharge": "200",
+        "remainOutAmt": "600",
+        "prePayCharge": "20",
+        "remainPeriod": "1",
+        "state": "1",
+        "periods": [
+          {
+            "amount": "100",
+            "periodDate": "20210405",
+            "done": "1"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20210505",
+            "done": "1"
+          },
+          {
+            "amount": "100",
+            "periodDate": "20210605",
+            "done": "0"
+          }
+        ],
+        "consumes": [],
+        "installAddr": "上海大润发有限公司大润发辽阳路店"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810922",
+      "respTime": "2021-12-21 10:00:01",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

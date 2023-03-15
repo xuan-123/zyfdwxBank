@@ -1,0 +1,76 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "eleAcNo": "62141234100763371",
+    "flag": "0",
+    "acctList": [
+      {
+        "acNo": "6214169104837226",
+        "acName": "挡板户名",
+        "bankId": "66322555",
+        "bankName": "科蓝银行xx支行",
+        "bkctgrycd": null,
+        "currency": "CNY",
+        "mobilePhone": "18505561892",
+        "openMobilePhone": null,
+        "acState": "01",
+        "innerBankFlag": "1",
+        "bankAcType": "PSAV",
+        "acctLevel": "1",
+        "balance": "100000"
+      },
+      {
+        "acNo": "6666777788880001",
+        "acName": "挡板户名",
+        "bankId": "66322555",
+        "bankName": "科蓝银行xx支行",
+        "bkctgrycd": "101",
+        "currency": "CNY",
+        "mobilePhone": "18505561892",
+        "openMobilePhone": null,
+        "acState": "01",
+        "innerBankFlag": "0",
+        "bankAcType": "PSAV",
+        "acctLevel": "1",
+        "balance": "100000"
+      },
+      {
+        "acNo": "6666777788880005",
+        "acName": "挡板户名",
+        "bankId": "66322555",
+        "bankName": "科蓝银行xx支行",
+        "bkctgrycd": "101",
+        "currency": "CNY",
+        "mobilePhone": "18505561892",
+        "openMobilePhone": null,
+        "acState": "01",
+        "innerBankFlag": "0",
+        "bankAcType": "PSAV",
+        "acctLevel": "1",
+        "balance": "100000"
+      },
+      {
+        "acNo": "6666222288881002",
+        "acName": "挡板户名（小程序）",
+        "bankId": "66322555",
+        "bankName": "徽商银行xx支行",
+        "bkctgrycd": "101",
+        "currency": "CNY",
+        "mobilePhone": "18505561892",
+        "openMobilePhone": null,
+        "acState": "01",
+        "innerBankFlag": "0",
+        "bankAcType": "POBC",
+        "acctLevel": "1",
+        "balance": null
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063901080",
+      "respTime": "2021-12-21 10:50:40",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

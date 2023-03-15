@@ -1,0 +1,15 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "hostSerial": "10001202004091122893347",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810706",
+      "respTime": "2021-12-21 09:53:13",
+      "processState": "OK",
+      "jnlState": "00"
+    },
+    "mobilePhoneShow": "",
+    "athrInfoGroup": null
+  }
+}

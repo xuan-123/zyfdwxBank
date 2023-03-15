@@ -1,0 +1,79 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "repayFirstMonth": null,
+    "repayMonth": "2,908.12",
+    "repayMonthDec": null,
+    "totalInterest": "4,692.35",
+    "repayTotal": "104,692.35",
+    "list": [
+      {
+        "payNum": "1",
+        "payInter": "2,658.12",
+        "payCap": "250.00",
+        "payAmt": "2,908.12"
+      },
+      {
+        "payNum": "2",
+        "payInter": "2,664.77",
+        "payCap": "243.35",
+        "payAmt": "2,908.12"
+      },
+      {
+        "payNum": "3",
+        "payInter": "2,671.43",
+        "payCap": "236.69",
+        "payAmt": "2,908.12"
+      },
+      {
+        "payNum": "4",
+        "payInter": "2,678.11",
+        "payCap": "230.01",
+        "payAmt": "2,908.12"
+      },
+      {
+        "payNum": "5",
+        "payInter": "2,684.80",
+        "payCap": "223.32",
+        "payAmt": "2,908.12"
+      },
+      {
+        "payNum": "6",
+        "payInter": "2,691.51",
+        "payCap": "216.61",
+        "payAmt": "2,908.12"
+      },
+      {
+        "payNum": "7",
+        "payInter": "2,698.24",
+        "payCap": "209.88",
+        "payAmt": "2,908.12"
+      },
+      {
+        "payNum": "8",
+        "payInter": "2,704.99",
+        "payCap": "203.13",
+        "payAmt": "2,908.12"
+      },
+      {
+        "payNum": "9",
+        "payInter": "2,711.75",
+        "payCap": "196.37",
+        "payAmt": "2,908.12"
+      },
+      {
+        "payNum": "10",
+        "payInter": "2,718.53",
+        "payCap": "189.59",
+        "payAmt": "2,908.12"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810315",
+      "respTime": "2021-12-21 09:42:33",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

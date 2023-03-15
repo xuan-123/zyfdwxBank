@@ -1,0 +1,94 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "investCode": "PC00015",
+        "investType": "1",
+        "investName": "理财测试产品PC00015",
+        "taCode": "125",
+        "taName": "科蓝理财产品管理中心",
+        "investNav": "1.05",
+        "ipoStartDate": "20210709",
+        "ipoEndDate": "20210809",
+        "estabDate": "20210810",
+        "investScale": "8888888",
+        "totalLimit": "8000000",
+        "saleLimit": "200000",
+        "availLimit": "7800000",
+        "rate": "97.50%",
+        "perFirstAmount": "50000",
+        "perAddSmallAmount": "1000",
+        "perMinFixedAmount": "10000",
+        "perMaxAmount": "0",
+        "entFirstAmount": "100000",
+        "entAddSmallAmount": "10000",
+        "entMinFixedAmount": "50000",
+        "entMaxAmount": "0",
+        "currency": "CNY",
+        "dividendWay": "0",
+        "openTime": "00:00-09:00",
+        "closeTime": "17:00-24:00",
+        "riskLevel": "1",
+        "riskLevelName": "低风险",
+        "investStatus": "0",
+        "investStatusName": "募集期",
+        "cashFlag": "1",
+        "perAllowFlag": "1",
+        "entAllowFlag": "1",
+        "expiryDate": "20220808",
+        "incomeType": "0",
+        "incomeTypeName": "保本浮动收益类",
+        "investTemplate": "1305",
+        "navDate": "20210816",
+        "incomeDate": "20210812",
+        "investPropertyName": "固定收益类",
+        "buyRate": "1.5%",
+        "redeemRate": "0.5%",
+        "expectRate": "3.75%",
+        "investTerm": "10",
+        "vol": "100",
+        "incomeRule": "募集期结束后第2天开始计算收益。���3日显示收益",
+        "returnrule": "理财期满，在到账日当天将投资人本金和理财收益一并转入到原支付银行卡",
+        "salechannel": "柜面，网上银行，手机银行",
+        "interestWay": "1",
+        "totalIncome": "500.00",
+        "yestIncome": "2.00",
+        "redeemAmount": "1000",
+        "minRedeemAmount": "100",
+        "otherExplain": "如在普通赎回选择进行全部赎回后，未到账收益仍会在下个交易日结转给份额。",
+        "redeemLimit": "100",
+        "prdNoticeList": [
+          {
+            "prdNoticePath": "/file/prdnotice/",
+            "prdNoticeName": "平安银行关于部分理财产品关闭自动再投资功能的公告-和盈智慧1801.pdf",
+            "prdNoticeDate": "2021-3-5"
+          },
+          {
+            "prdNoticePath": "/file/prdnotice/",
+            "prdNoticeName": "20201203-产品信息公示-智慧180.pdf",
+            "prdNoticeDate": "2020-12-3"
+          },
+          {
+            "prdNoticePath": "/file/prdnotice/",
+            "prdNoticeName": "2020617-产品信息公示-智慧180.pdf",
+            "prdNoticeDate": "2021-6-17"
+          },
+          {
+            "prdNoticePath": "/file/prdnotice/",
+            "prdNoticeName": "2020616-产品信息公示-智慧180.pdf",
+            "prdNoticeDate": "2021-6-16"
+          }
+        ],
+        "relatedInstructionList": []
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211222200064566073",
+      "respTime": "2021-12-22 09:46:27",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

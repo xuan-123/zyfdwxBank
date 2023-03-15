@@ -1,0 +1,30 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "hostJnlNo": "100000004",
+    "bookDate": "20211025-20211028",
+    "bookState": "3",
+    "userName": "张三",
+    "idType": "P02",
+    "idNo": "510181198906033192",
+    "idArea": "101",
+    "permanentAddress": "安徽省合肥市包河区",
+    "detailedAddress": "千城大厦2601室",
+    "mobilePhone": "13666666666",
+    "deptId": "2100",
+    "deptName": "科蓝银行滨洲支行",
+    "professional": "1",
+    "educationBackground": "研究生",
+    "email": "zhangsan@csii.com.cn",
+    "companyName": "北京科蓝",
+    "unitAddress": "安徽省合肥市包河区",
+    "unitPhone": "55663311",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063786617",
+      "respTime": "2021-12-21 09:29:47",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

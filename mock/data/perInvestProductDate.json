@@ -1,0 +1,20 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "redeemDate": "20200616",
+    "openTime": "20210705090000",
+    "closeTime": "20210808100000",
+    "cycleStartDate": "20200907090000",
+    "cycleEndDate": "20220907100000",
+    "cycleDate": "20200305",
+    "incomeDate": "20210810",
+    "incomeEndDate": "20211205",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811329",
+      "respTime": "2021-12-21 10:12:46",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

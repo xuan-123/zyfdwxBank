@@ -1,0 +1,83 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "unMarkedMsgNoticeReadDtoList": [
+      {
+        "noticeSeq": "52506",
+        "noticeTitle": "测试公告",
+        "showChannel": "BBMS,PPBS,PMBS,PZBS",
+        "beginTime": "2021-10-19",
+        "endTime": "2022-10-19",
+        "showSpace": "FORCE",
+        "businessGroup": null,
+        "sendFlag": "0",
+        "noticeContent": "这是一条测试公告",
+        "publishState": "1",
+        "updateTime": null,
+        "createTime": "2021-10-19 14:17:26",
+        "noticeType": "2"
+      },
+      {
+        "noticeSeq": "5002",
+        "noticeTitle": "嘎哈哈哈哈哈哈哈哈或",
+        "showChannel": "BBMS,PPBS,PMBS,PZBS",
+        "beginTime": "2021-10-10",
+        "endTime": "2022-05-01",
+        "showSpace": "FORCE",
+        "businessGroup": null,
+        "sendFlag": "0",
+        "noticeContent": "嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或",
+        "publishState": "1",
+        "updateTime": null,
+        "createTime": "2021-10-09 16:32:00",
+        "noticeType": "1"
+      }
+    ],
+    "msgNoticeReadDtoList": [
+      {
+        "noticeSeq": "52506",
+        "noticeTitle": "测试公告",
+        "showChannel": "BBMS,PPBS,PMBS,PZBS",
+        "beginTime": "2021-10-19",
+        "endTime": "2022-10-19",
+        "showSpace": "FORCE",
+        "businessGroup": null,
+        "sendFlag": "0",
+        "noticeContent": "这是一条测试��告",
+        "publishState": "1",
+        "readStatus": null,
+        "updateTime": null,
+        "createTime": "2021-10-19 14:17:26",
+        "noticeType": "2"
+      },
+      {
+        "noticeSeq": "5002",
+        "noticeTitle": "嘎哈哈哈哈哈哈哈哈或",
+        "showChannel": "BBMS,PPBS,PMBS,PZBS",
+        "beginTime": "2021-10-10",
+        "endTime": "2022-05-01",
+        "showSpace": "FORCE",
+        "businessGroup": null,
+        "sendFlag": "0",
+        "noticeContent": "嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或嘎哈哈哈哈哈哈哈哈或",
+        "publishState": "1",
+        "readStatus": null,
+        "updateTime": null,
+        "createTime": "2021-10-09 16:32:00",
+        "noticeType": "1"
+      }
+    ],
+    "headlinesCount": "0",
+    "announcementCount": "1",
+    "marketingCount": "1",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811848",
+      "respTime": "2021-12-21 10:19:37",
+      "processState": "OK",
+      "jnlState": "00",
+      "pageNo": "1",
+      "totalCount": "2"
+    }
+  }
+}

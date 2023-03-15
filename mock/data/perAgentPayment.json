@@ -1,0 +1,17 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "oriTransStatus": "00",
+    "oriTransFailReason": "",
+    "oriTransTime": "2021-08-27 20:34:07",
+    "oriTransJnl": "9396192",
+    "athrInfoGroup": null,
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811749",
+      "respTime": "2021-12-21 10:19:02",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

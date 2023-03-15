@@ -1,0 +1,92 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "applyNumber": "0987646",
+        "entryDate": "2021/08/04",
+        "applyStatus": "1",
+        "cardStatus": "1",
+        "auditDate": "",
+        "makeCardDate": "",
+        "sendCardDate": "",
+        "signCardDate": "",
+        "openCardDate": "",
+        "transSerial": "1000102021041200011",
+        "creditName": null,
+        "cardType": "1",
+        "descriptions": [
+          {
+            "title": "免年费",
+            "description": "免年费免年费免年费"
+          },
+          {
+            "title": "交易积分",
+            "description": "交易积分交易积分213"
+          }
+        ],
+        "cardImg": "appCardExample1",
+        "cardNo": ""
+      },
+      {
+        "applyNumber": "0987645",
+        "entryDate": "2018/03/04",
+        "applyStatus": "2",
+        "cardStatus": "7",
+        "auditDate": "2018/03/06",
+        "makeCardDate": "2018/03/15",
+        "sendCardDate": "",
+        "signCardDate": "",
+        "openCardDate": "",
+        "transSerial": "1000102021041200011",
+        "creditName": null,
+        "cardType": "2",
+        "descriptions": [
+          {
+            "title": "免年费",
+            "description": "免年费免年费免年费"
+          },
+          {
+            "title": "交易积分",
+            "description": "交易积分交易积分213"
+          }
+        ],
+        "cardImg": "appCardExample1",
+        "cardNo": "6254889785656111"
+      },
+      {
+        "applyNumber": "0987644",
+        "entryDate": "2018/03/02",
+        "applyStatus": "2",
+        "cardStatus": "7",
+        "auditDate": "2018/03/07",
+        "makeCardDate": "2018/03/09",
+        "sendCardDate": "2018/03/15",
+        "signCardDate": "2018/03/20",
+        "openCardDate": "2018/03/25",
+        "transSerial": "1000102021041200011",
+        "creditName": null,
+        "cardType": "3",
+        "descriptions": [
+          {
+            "title": "免年费",
+            "description": "免年费免年费免年费"
+          },
+          {
+            "title": "交易积分",
+            "description": "交易积分交易积分213"
+          }
+        ],
+        "cardImg": "appCardExample1",
+        "cardNo": "6254889785656111"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810720",
+      "respTime": "2021-12-21 09:53:49",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

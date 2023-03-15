@@ -1,0 +1,56 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "msgFqaDtoList": [
+      {
+        "fqaType": "1",
+        "fqaTitle": "scsac啊啊啊",
+        "showChannel": "PIBS,PMBS",
+        "fqaDetail": "<p>cscasc阿萨大大水水撒大啊水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水水顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶顶反反复复烦烦烦烦烦烦烦烦烦烦烦烦烦烦烦a</p>",
+        "createTime": "2021-10-11 09:20:28",
+        "orderNum": "2"
+      },
+      {
+        "fqaType": "2",
+        "fqaTitle": "钱钱钱",
+        "showChannel": "EMBS,PIBS",
+        "fqaDetail": "<p>钱钱钱</p>",
+        "createTime": "2021-10-12 11:27:41",
+        "orderNum": "2"
+      },
+      {
+        "fqaType": "5",
+        "fqaTitle": "123",
+        "showChannel": "EIBS",
+        "fqaDetail": "<p>挖的青蛙达瓦</p>",
+        "createTime": "2021-10-11 18:23:47",
+        "orderNum": "2"
+      },
+      {
+        "fqaType": "1",
+        "fqaTitle": "asd",
+        "showChannel": "EMBS",
+        "fqaDetail": "<p><strong>asd<img src=\"tinymce-all-in-one/plugins/emoticons/img/smiley-kiss.gif\" alt=\"kiss\" /></strong></p>\n<p><strong>sfsdfsdfsf</strong></p>\n<p><img class=\"wscnph\" src=\"blob:http://localhost:8080/073f355e-f2d3-42ac-928a-6b8d03c82b17\" /></p>",
+        "createTime": "2021-10-11 14:13:14",
+        "orderNum": "1"
+      },
+      {
+        "fqaType": "6",
+        "fqaTitle": "1233",
+        "showChannel": "EIBS,PMBS,EMBS,PIBS",
+        "fqaDetail": "<p>挖的青蛙达瓦</p>",
+        "createTime": "2021-10-11 18:23:31",
+        "orderNum": "1"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811864",
+      "respTime": "2021-12-21 10:19:50",
+      "processState": "OK",
+      "jnlState": "00",
+      "pageNo": "1",
+      "totalCount": "5"
+    }
+  }
+}

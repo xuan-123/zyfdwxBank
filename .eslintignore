@@ -1,0 +1,5 @@
+src/services/uni.js
+src/utils/weixin.js
+src/config/locale.js
+static/*
+

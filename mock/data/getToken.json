@@ -1,0 +1,13 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "_tokenName": "y6ZoZc78",
+    "commonResponseHead": {
+      "globalJnlNo": null,
+      "respTime": "2021-12-21 11:26:13",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

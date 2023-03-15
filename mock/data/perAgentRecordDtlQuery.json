@@ -1,0 +1,33 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "oriTransJnoNo": "7934427",
+    "agentTypeCode": "3",
+    "agentAmount": "120.00",
+    "agentAcctNo": "2500069",
+    "agentAcctName": "张三",
+    "agentGroupId": "04",
+    "payerAcNo": "6666222288881001",
+    "operator": "中国移动",
+    "agentCompanyName": "合肥缴费公司",
+    "agentStatus": "00",
+    "oriTransTime": "2021-12-05 12:35:09",
+    "address": "安徽省合肥市蜀山区",
+    "heatingUnitPrice": "39.39",
+    "heatingArea": "100平米",
+    "agentYear": "2020-2021",
+    "channelId": "PIBS",
+    "channelType": "per",
+    "agentPayType": "00",
+    "rechargedFlow": "10GB",
+    "transTime": "2021-12-05 12:35:09",
+    "agentChannelType": "02",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811722",
+      "respTime": "2021-12-21 10:18:38",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

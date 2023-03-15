@@ -1,0 +1,30 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "loanTypePrdDtos": [
+      {
+        "prodCode": "A10001",
+        "prodName": "个人二手房抵押贷"
+      },
+      {
+        "prodCode": "A10002",
+        "prodName": "个人二手车抵押贷"
+      },
+      {
+        "prodCode": "A10003",
+        "prodName": "个人商铺抵押贷"
+      },
+      {
+        "prodCode": "A10004",
+        "prodName": "个人无需抵押抵押贷"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063810563",
+      "respTime": "2021-12-21 09:48:26",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

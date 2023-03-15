@@ -1,0 +1,90 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "totalCount": "5",
+    "list": [
+      {
+        "trsDate": "2021-12-10 12:12:12",
+        "amount": "3000.98",
+        "payeeName": "张三",
+        "payeeAcNo": "61232332222323271100",
+        "payeeBankNo": "302433",
+        "payeeBankName": "朝阳门朝阳门外大街中国银行支行",
+        "payerName": "李四",
+        "payerAcNo": "61232332222323279900",
+        "payerBankNo": "302433",
+        "payerBankName": "朝阳门朝阳门外大街中国银行支行",
+        "remark": "还款",
+        "status": "成功",
+        "cdType": "D"
+      },
+      {
+        "trsDate": "2021-11-17 12:12:12",
+        "amount": "12009.98",
+        "payeeName": "张三",
+        "payeeAcNo": "61232332222323271101",
+        "payeeBankNo": "302433",
+        "payeeBankName": "朝阳门朝阳门外大街中国银行支行",
+        "payerName": "李四",
+        "payerAcNo": "61232332222323279901",
+        "payerBankNo": "302433",
+        "payerBankName": "朝阳门朝阳门外大街中国银行支行",
+        "remark": "还款",
+        "status": "成功",
+        "cdType": "D"
+      },
+      {
+        "trsDate": "2021-11-12 12:12:12",
+        "amount": "7543.98",
+        "payeeName": "张三",
+        "payeeAcNo": "61232332222323271102",
+        "payeeBankNo": "302433",
+        "payeeBankName": "朝阳门朝阳门外大街中国银行支行",
+        "payerName": "李四",
+        "payerAcNo": "61232332222323279902",
+        "payerBankNo": "302433",
+        "payerBankName": "朝阳门朝阳门外大街中国银行支行",
+        "remark": "还款",
+        "status": "成功",
+        "cdType": "D"
+      },
+      {
+        "trsDate": "2021-10-13 12:12:12",
+        "amount": "2345.98",
+        "payeeName": null,
+        "payeeAcNo": "61232332222323271103",
+        "payeeBankNo": "302433",
+        "payeeBankName": "朝阳门朝阳门外大街中国银行支行",
+        "payerName": "李四",
+        "payerAcNo": "61232332222323279903",
+        "payerBankNo": "302433",
+        "payerBankName": "朝阳门朝阳门外大街中国银行支行",
+        "remark": "还款",
+        "status": "成功",
+        "cdType": "D"
+      },
+      {
+        "trsDate": "2021-09-14 12:12:12",
+        "amount": "1234.98",
+        "payeeName": null,
+        "payeeAcNo": "61232332222323271104",
+        "payeeBankNo": "302433",
+        "payeeBankName": "朝阳门朝阳门外大街中国银行支行",
+        "payerName": "李四",
+        "payerAcNo": "61232332222323279904",
+        "payerBankNo": "302433",
+        "payerBankName": "朝阳门朝阳门外大街中国银行支行",
+        "remark": "退款",
+        "status": "成功",
+        "cdType": "C"
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211223200065257519",
+      "respTime": "2021-12-23 14:49:38",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "csii.vx3.mobile",
+  "version": "0.2.0",
+  "private": true,
+  "vx-info": {
+    "version": "3.2.4",
+    "description": "微信标准版3.2版本"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "start": "npm run serve",
+    "build": "node ./build/build.js",
+    "build:all": "node ./build/build.js --all",
+    "build:nomock": "node ./build/build.js -m nomock --all",
+    "lint": "vue-cli-service lint --fix",
+    "commit": "npm run changeMsg && git-cz",
+    "changeMsg": "node ./build/change-commit-msg.js",
+    "build:report": "vue-cli-service build --mode nomock --report"
+  },
+  "dependencies": {
+    "@csii/pwdctrl-h5": "^1.0.3",
+    "@csii/smcrypto": "^1.0.2",
+    "@csii/usemock": "^1.0.2",
+    "@csii/vx-clay": "^4.9.0",
+    "@csii/vx-clay-echart": "^0.5.1",
+    "@csii/vx-debugger": "^1.6.2",
+    "archiver": "^5.2.0",
+    "fastclick": "^1.0.6",
+    "loadjs": "^4.2.0",
+    "mockjs": "^1.1.0",
+    "normalize.css": "^8.0.1",
+    "vee-validate": "^2.2.7",
+    "vue-calendar-component": "^2.8.2",
+    "vue-loader": "^15.9.6",
+    "vue-pdf": "^4.3.0",
+    "vuedraggable": "^2.24.3"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "@vue/cli-plugin-babel": "^3.7.0",
+    "@vue/cli-plugin-eslint": "^3.7.0",
+    "@vue/cli-service": "^3.12.1",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "colors": "^1.4.0",
+    "commitizen": "^4.2.4",
+    "compressing": "^1.5.1",
+    "cross-env": "^5.2.0",
+    "cz-customizable": "^6.3.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-eqeqeq-fix": "^1.0.3",
+    "eslint-plugin-prettier": "^3.3.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "file-save": "^0.2.0",
+    "lint-staged": "^10.5.4",
+    "postcss-pxtorem": "^4.0.1",
+    "prettier": "^1.19.1",
+    "sass": "^1.32.8",
+    "sass-loader": "^10.1.1",
+    "vue-template-compiler": "^2.6.12",
+    "zip-webpack-plugin": "^3.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-customizable"
+    }
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged --no-stash",
+    "commit-msg": "node ./build/verify-commit-msg.js",
+    "post-commit": "node ./build/change-commit-msg.js --post-commmit"
+  },
+  "lint-staged": {
+    "*.{js,jsx,vue}": [
+      "vue-cli-service lint"
+    ]
+  }
+}

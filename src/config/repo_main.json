@@ -1,0 +1,179 @@
+{
+  "stages": {
+    "locServiceSetting": {
+      "auth_check": null,
+      "module": "function",
+      "name": "获取定位",
+      "params": null,
+      "path": null
+    },
+    "savePhoto": {
+      "auth_check": null,
+      "module": "function",
+      "name": "保存图片",
+      "params": null,
+      "path": null
+    },
+    "faceRecognition": {
+      "auth_check": null,
+      "module": "web",
+      "name": "人脸识别",
+      "params": null,
+      "path": "sign/#/faceRecognition"
+    },
+    "login": {
+      "auth_check": null,
+      "module": "web",
+      "name": "登录",
+      "params": null,
+      "path": "sign/#/login"
+    },
+    "register": {
+      "auth_check": null,
+      "module": "web",
+      "name": "注册",
+      "params": null,
+      "path": "sign/#/register"
+    },
+    "forgetPassword": {
+      "auth_check": null,
+      "module": "web",
+      "name": "忘记密码",
+      "params": null,
+      "path": "sign/#/forgetPassword"
+    },
+    "resetPassword": {
+      "auth_check": null,
+      "module": "web",
+      "name": "重置密码",
+      "params": null,
+      "path": "sign/#/resetPassword"
+    },
+    "auth": {
+      "auth_check": null,
+      "module": "web",
+      "name": "授权",
+      "params": null,
+      "path": "sign/#/authorization"
+    },
+    "identityAuth": {
+      "auth_check": null,
+      "module": "web",
+      "name": "实名认证",
+      "params": null,
+      "path": "sign/#/identityAuth"
+    },
+    "finance": {
+      "auth_check": null,
+      "module": "web",
+      "name": "理财",
+      "params": null,
+      "path": "finance-deposit/#/financeEnter"
+    },
+    "deposit": {
+      "auth_check": null,
+      "module": "web",
+      "name": "存款",
+      "params": null,
+      "path": "finance-deposit/#/depositMain"
+    },
+    "fund": {
+      "auth_check": null,
+      "module": "web",
+      "name": "基金",
+      "params": null,
+      "path": "fund/#/fundHome"
+    },
+    "credit-card": {
+      "auth_check": null,
+      "module": "web",
+      "name": "信用卡",
+      "params": null,
+      "path": "credit-card/#/home"
+    },
+    "applyList": {
+      "auth_check": null,
+      "module": "web",
+      "name": "信用卡申请",
+      "params": null,
+      "path": "credit-card/#/apply"
+    },
+    "myBill": {
+      "auth_check": null,
+      "module": "web",
+      "name": "信用卡账单",
+      "params": null,
+      "path": "credit-card/#/myBill"
+    },
+    "billStageRecord": {
+      "auth_check": null,
+      "module": "web",
+      "name": "信用卡分期记录",
+      "params": null,
+      "path": "credit-card/#/billStageRecord"
+    },
+    "loan": {
+      "auth_check": null,
+      "module": "web",
+      "name": "贷款",
+      "params": null,
+      "path": "loan/#/loan"
+    },
+    "myLoan": {
+      "auth_check": null,
+      "module": "web",
+      "name": "我的贷款",
+      "params": null,
+      "path": "loan/#/myloan"
+    },
+    "loanProduct": {
+      "auth_check": null,
+      "module": "web",
+      "name": "我的贷款",
+      "params": null,
+      "path": "loan/#/product"
+    },
+    "message": {
+      "auth_check": null,
+      "module": "web",
+      "name": "微信通知",
+      "params": null,
+      "path": "common/#/message"
+    },
+    "download": {
+      "auth_check": null,
+      "module": "web",
+      "name": "APP下载",
+      "params": null,
+      "path": "common/#/download"
+    },
+    "lifeHome": {
+      "auth_check": null,
+      "module": "web",
+      "name": "生活缴费",
+      "params": null,
+      "path": "life/#/lifeHome"
+    },
+    "elcAccountOpen": {
+      "auth_check": null,
+      "module": "web",
+      "name": "在线开户",
+      "params": null,
+      "path": "my-account/#/elcAccountOpen"
+    },
+    "accountManagement": {
+      "auth_check": null,
+      "module": "web",
+      "name": "账户管理",
+      "params": null,
+      "path": "my-account/#/accountManagement"
+    },
+    "addAccountPre": {
+      "auth_check": null,
+      "module": "web",
+      "name": "信用卡加挂",
+      "params": null,
+      "path": "my-account/#/addAccountPre"
+    }
+  }
+}

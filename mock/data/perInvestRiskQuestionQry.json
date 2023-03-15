@@ -1,0 +1,365 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "list": [
+      {
+        "paperNo": "14324312",
+        "questionNo": "1",
+        "riskOption": "0",
+        "subject": "您目前所处的年龄阶段：",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "1",
+        "riskOption": "A",
+        "subject": "30岁以下",
+        "score": "5.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "1",
+        "riskOption": "B",
+        "subject": "30—39岁",
+        "score": "4.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "1",
+        "riskOption": "C",
+        "subject": "40—49岁",
+        "score": "3.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "1",
+        "riskOption": "D",
+        "subject": "50—64岁",
+        "score": "2.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "1",
+        "riskOption": "E",
+        "subject": "65岁以上",
+        "score": "1.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "2",
+        "riskOption": "0",
+        "subject": "您的家庭年收入：",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "2",
+        "riskOption": "A",
+        "subject": "100万以上",
+        "score": "5.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "2",
+        "riskOption": "B",
+        "subject": "50—100万",
+        "score": "4.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "2",
+        "riskOption": "C",
+        "subject": "20—50万",
+        "score": "3.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "2",
+        "riskOption": "D",
+        "subject": "10—20万",
+        "score": "2.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "2",
+        "riskOption": "E",
+        "subject": "10万以下",
+        "score": "1.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "3",
+        "riskOption": "0",
+        "subject": "您有多少年投资有金融投资产品的经验（有风险投资产品包括股票、基金、外币、商品、结>构投资产品、认股权证、期权、期货和投资连接保险计划等）？",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "3",
+        "riskOption": "A",
+        "subject": "没有经验",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "3",
+        "riskOption": "B",
+        "subject": "少于2年",
+        "score": "1.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "3",
+        "riskOption": "C",
+        "subject": "2至5年",
+        "score": "2.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "3",
+        "riskOption": "D",
+        "subject": "5至10年",
+        "score": "3.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "3",
+        "riskOption": "E",
+        "subject": "多过10年",
+        "score": "4.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "4",
+        "riskOption": "0",
+        "subject": "你是不是正在测试第四题？",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "4",
+        "riskOption": "A",
+        "subject": "是",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "4",
+        "riskOption": "B",
+        "subject": "不是",
+        "score": "1.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "5",
+        "riskOption": "0",
+        "subject": "这是挡板数据吗？",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "5",
+        "riskOption": "A",
+        "subject": "是",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "5",
+        "riskOption": "B",
+        "subject": "不是",
+        "score": "1.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "6",
+        "riskOption": "0",
+        "subject": "是否有股票经验？",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "6",
+        "riskOption": "A",
+        "subject": "是",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "6",
+        "riskOption": "B",
+        "subject": "不是",
+        "score": "1.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "7",
+        "riskOption": "0",
+        "subject": "是否有债券经验？",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "7",
+        "riskOption": "A",
+        "subject": "是",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "7",
+        "riskOption": "B",
+        "subject": "不是",
+        "score": "1.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "8",
+        "riskOption": "0",
+        "subject": "是否有小微贷经验？",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "8",
+        "riskOption": "A",
+        "subject": "是",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "8",
+        "riskOption": "B",
+        "subject": "不是",
+        "score": "1.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "9",
+        "riskOption": "0",
+        "subject": "几年基金经验？",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "9",
+        "riskOption": "A",
+        "subject": "3年以下",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "9",
+        "riskOption": "B",
+        "subject": "3年以上",
+        "score": "1.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "10",
+        "riskOption": "0",
+        "subject": "毕业多久？",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "10",
+        "riskOption": "A",
+        "subject": "1年以下",
+        "score": "0.00",
+        "questionType": "0",
+        "statusName": null
+      },
+      {
+        "paperNo": "1",
+        "questionNo": "10",
+        "riskOption": "B",
+        "subject": "1年以上",
+        "score": "1.00",
+        "questionType": "0",
+        "statusName": null
+      }
+    ],
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063811294",
+      "respTime": "2021-12-21 10:12:26",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}

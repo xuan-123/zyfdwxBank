@@ -1,0 +1,15 @@
+{
+  "respCode": "00000000",
+  "respMessage": "交易成功",
+  "data": {
+    "signType": "A001",
+    "signStatus": "1",
+    "signDate": "20201212",
+    "commonResponseHead": {
+      "globalJnlNo": "20211221200063900654",
+      "respTime": "2021-12-21 10:41:06",
+      "processState": "OK",
+      "jnlState": "00"
+    }
+  }
+}
