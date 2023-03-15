@@ -167,10 +167,10 @@ export function shareFun(to) {
         link: `${document.URL.split('#')[0]}#${Vue.prototype.homeRoute}`, // 分享链接，该链接域名或路径必须与当前页面对应的公众号JS安全域名一致
         imgUrl: `${window.location.origin}${process.env.VUE_APP_PREFIX}static/csii.png`, // 分享图标
         type: 'link', // 分享类型,music、video或link，不填默认为link
-        success: function () {
+        success: function() {
           // 用户点击了分享后执行的回调函数
         },
-        fail: function (err) {
+        fail: function(err) {
           if (err.errMsg === 'onMenuShareAppMessage:permission denied') {
             throw Error('onMenuShareAppMessage 未在 wxConfig 内配置');
           }

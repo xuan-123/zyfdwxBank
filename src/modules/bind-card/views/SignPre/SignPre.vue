@@ -325,6 +325,7 @@ export default {
 .signpre {
   background: #fff;
   height: 100vh;
+
   .contain {
     .p {
       font-size: 40px;
@@ -332,13 +333,16 @@ export default {
       height: 100px;
       line-height: 100px;
     }
+
     .img {
       width: 100vw;
       height: 200px;
     }
+
     .table {
       background: #f5f5f5;
       height: 100%;
+
       .item {
         background: #fff;
         margin-bottom: 10px;
@@ -346,13 +350,16 @@ export default {
         display: flex;
         align-items: center;
         padding: 0 30px;
+
         .left {
           margin-right: 20px;
+
           img {
             width: 60px;
             height: 60px;
           }
         }
+
         .right {
           input {
             height: 60px;
@@ -362,12 +369,15 @@ export default {
             border-left: 1px solid #e3e3e3;
           }
         }
+
         .vter {
           display: flex;
           padding-right: 20px;
         }
+
         .rightphone {
           display: flex;
+
           // justify-content: space-between;
           input {
             height: 60px;
@@ -376,6 +386,7 @@ export default {
             border: none;
             border-left: 1px solid #e3e3e3;
           }
+
           .sms {
             height: 60px;
             line-height: 60px;
@@ -386,6 +397,7 @@ export default {
             border-radius: 10px;
             background-color: #fff;
           }
+
           .smsdisable {
             background-color: #ccc;
             border: 1px solid #ccc;

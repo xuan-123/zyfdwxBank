@@ -5,6 +5,7 @@
 </template>
 <script>
 import commonApi from '@/api/common.js';
+
 export default {
   name: 'vx-warm-prompt',
   props: {

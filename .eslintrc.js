@@ -7,7 +7,8 @@ module.exports = {
     context: true,
     getKeyboard: true,
     GVerify: true,
-    initInput: true
+    initInput: true,
+    packageDecrypt: true,
 
 
   },
