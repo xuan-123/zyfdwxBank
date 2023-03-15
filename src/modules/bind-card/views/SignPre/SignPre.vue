@@ -106,7 +106,8 @@ export default {
   },
   created() {
     console.log(this.serverRandom);
-
+    let a = '123';
+    console.log(a);
     // 物理返回键 拦截
     window.history.pushState(null, null, document.URL);
     window.addEventListener('popstate', this.physicalReturn, false);
