@@ -44,6 +44,9 @@ export default {
     console.log(newData);
   },
   beforeDestroy() {
+    let as = '2332';
+    let abc = '123';
+    console.log(as, abc);
     window.removeEventListener('popstate', this.physicalReturn, false);
   },
   methods: {

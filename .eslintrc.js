@@ -9,8 +9,6 @@ module.exports = {
     GVerify: true,
     initInput: true,
     packageDecrypt: true,
-
-
   },
   extends: ['plugin:vue/essential', 'eslint:recommended', '@vue/prettier'],
   parserOptions: {
@@ -20,7 +18,7 @@ module.exports = {
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off', // 没有debugger
     'no-var': 'error', // 不使用var定义变量
     eqeqeq: ['error', 'smart'], // 使用 === and !==
-    // 'no-unused-vars': ['error', { vars: 'all' }], //禁止未使用v-for指令或作用域属性的变量定义
+    'no-unused-vars': ['error', { vars: 'all' }], //禁止未使用v-for指令或作用域属性的变量定义
     camelcase: ['error', { properties: 'always' }], //强制驼峰命名
     'vue/html-quotes': 'warn', //强制HTML属性的引号样式
     'vue/no-unused-vars': 'error', ////禁止未使用v-for指令或作用域属性的变量定义

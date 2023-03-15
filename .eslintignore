@@ -1,5 +1,7 @@
-src/services/uni.js
 src/utils/weixin.js
 src/config/locale.js
+src/services
+src/utils
+src/config
 static/*
 
